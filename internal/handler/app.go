@@ -15,7 +15,7 @@ type appError struct {
 type htmlAppHandler func(w http.ResponseWriter, r *http.Request) *appError
 
 func (fn htmlAppHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-	w.Header().Add("Content-Type", "text/html")
+	w.Header().Add("Content-Type", "text/html; charset=utf-8")
 	if ae := fn(w, r); ae != nil {
 		fmt.Errorf("%s: %s\n", ae.Log, ae.Error.Error())
 		w.WriteHeader(500)
@@ -27,7 +27,7 @@ func (fn htmlAppHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 type jsonAppHandler func(w http.ResponseWriter, r *http.Request) *appError
 
 func (fn jsonAppHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
-	w.Header().Add("Content-Type", "application/json")
+	w.Header().Add("Content-Type", "application/json; charset=utf-8")
 	if ae := fn(w, r); ae != nil {
 		fmt.Errorf("%s: %s\n", ae.Log, ae.Error.Error())
 		w.WriteHeader(500)
