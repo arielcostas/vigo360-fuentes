@@ -8,20 +8,6 @@ import (
 	"vigo360.es/fuentes/internal/fuente"
 )
 
-func (s *Server) handleList(fuentes fuente.Repository) http.HandlerFunc {
-	return func(w http.ResponseWriter, r *http.Request) {
-		fuentes, err := fuentes.List()
-		if err != nil {
-			http.Error(w, err.Error(), http.StatusInternalServerError)
-			return
-		}
-
-		for i, fuente := range fuentes {
-			fmt.Fprintf(w, "%d => %s\n", i, fuente)
-		}
-	}
-}
-
 func (s *Server) handleListParroquia(fuentes fuente.Repository) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		parroquia := r.URL.Query().Get("parroquia")

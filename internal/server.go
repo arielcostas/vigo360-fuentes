@@ -3,13 +3,11 @@ package internal
 import (
 	"net/http"
 
-	"github.com/jmoiron/sqlx"
 	"vigo360.es/fuentes/internal/database"
 	"vigo360.es/fuentes/internal/fuente"
 )
 
 type Server struct {
-	db     *sqlx.DB
 	router *http.ServeMux
 }
 
