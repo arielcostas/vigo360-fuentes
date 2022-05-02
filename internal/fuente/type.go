@@ -1,4 +1,4 @@
-package model
+package fuente
 
 type Fuente struct {
 	Id     string

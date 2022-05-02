@@ -2,21 +2,24 @@ package main
 
 import (
 	"fmt"
+	"net/http"
 	"os"
 
-	"vigo360.es/fuentes/internal/handler"
-)
-
-var (
-	version string
+	"vigo360.es/fuentes/internal"
 )
 
 func main() {
-	fmt.Printf("Iniciando vigo360-fuentes versión %s\n", version)
-	var PORT = os.Getenv("PORT")
-	if PORT == "" {
-		PORT = "8080"
+	if err := run(); err != nil {
+		fmt.Fprintf(os.Stderr, "%s\n", err)
+		os.Exit(1)
 	}
+}
 
-	handler.Start(":" + PORT)
+func run() error {
+	fmt.Printf("Iniciando vigo360-fuentes\n")
+
+	var s = internal.Server{}
+	s.Routes()
+	err := http.ListenAndServe(":8080", &s)
+	return err
 }
