@@ -6,6 +6,8 @@ import (
 	"os"
 
 	"vigo360.es/fuentes/internal"
+	"vigo360.es/fuentes/internal/database"
+	"vigo360.es/fuentes/internal/fuente"
 )
 
 func main() {
@@ -18,8 +20,8 @@ func main() {
 func run() error {
 	fmt.Printf("Iniciando vigo360-fuentes\n")
 
-	var s = internal.Server{}
-	s.Routes()
-	err := http.ListenAndServe(":8080", &s)
+	var fr = fuente.NewMysqlRepository(database.GetDB())
+	var s = internal.NewServer(fr)
+	err := http.ListenAndServe(":8080", s)
 	return err
 }

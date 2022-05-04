@@ -3,12 +3,20 @@ package internal
 import (
 	"net/http"
 
-	"vigo360.es/fuentes/internal/database"
 	"vigo360.es/fuentes/internal/fuente"
 )
 
 type Server struct {
 	router *http.ServeMux
+	fr     fuente.Repository
+}
+
+func NewServer(fr fuente.Repository) *Server {
+	s := &Server{
+		fr: fr,
+	}
+	s.Routes()
+	return s
 }
 
 func (s *Server) Routes() {
@@ -16,12 +24,9 @@ func (s *Server) Routes() {
 		return
 	}
 
-	var db = database.GetDB()
-	var fr = fuente.NewMysqlRepository(db)
-
 	s.router = http.NewServeMux()
-	s.router.HandleFunc("/parroquia", s.handleListParroquia(fr))
-	s.router.HandleFunc("/", s.handleList(fr))
+	s.router.HandleFunc("/parroquia", s.handleListParroquia())
+	s.router.HandleFunc("/", s.handleList())
 }
 
 func (s *Server) ServeHTTP(w http.ResponseWriter, r *http.Request) {

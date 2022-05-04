@@ -3,14 +3,14 @@ package internal
 import (
 	"fmt"
 	"net/http"
-
-	"vigo360.es/fuentes/internal/fuente"
+	"os"
 )
 
-func (s *Server) handleList(fuentes fuente.Repository) http.HandlerFunc {
+func (s *Server) handleList() http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
-		fuentes, err := fuentes.List()
+		fuentes, err := s.fr.List()
 		if err != nil {
+			fmt.Fprintf(os.Stderr, "error listando fuentes: %s\n", err.Error())
 			s.handleError(w, 500, "Error recuperando datos")
 			return
 		}
