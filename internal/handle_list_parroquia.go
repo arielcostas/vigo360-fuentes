@@ -13,11 +13,13 @@ func (s *Server) handleListParroquia(fuentes fuente.Repository) http.HandlerFunc
 		parroquia := r.URL.Query().Get("parroquia")
 		fuentes, err := fuentes.ListByParroquia(parroquia)
 		if err != nil {
-			http.Error(w, err.Error(), http.StatusInternalServerError)
+			s.handleError(w, 500, "Error recuperando datos")
 			return
 		}
 
 		if len(fuentes) < 1 {
+			s.handleError(w, 404, err.Error())
+
 			http.Error(w, sql.ErrNoRows.Error(), http.StatusNotFound)
 			return
 		}

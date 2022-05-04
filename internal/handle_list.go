@@ -11,7 +11,7 @@ func (s *Server) handleList(fuentes fuente.Repository) http.HandlerFunc {
 	return func(w http.ResponseWriter, r *http.Request) {
 		fuentes, err := fuentes.List()
 		if err != nil {
-			http.Error(w, err.Error(), http.StatusInternalServerError)
+			s.handleError(w, 500, "Error recuperando datos")
 			return
 		}
 
