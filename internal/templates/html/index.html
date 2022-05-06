@@ -6,16 +6,31 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Inicio | Fuentes Vigo360</title>
+
+	<link rel="stylesheet" href="/static/leaflet/leaflet.css">
+	<script src="/static/leaflet/leaflet.js"></script>
+
 	<link rel="stylesheet" href="/static/style.css">
+
+
 </head>
 
 <body>
 	{{- template "_header.html" }}
-	<ul>
-		{{- range .Fuentes}}
-		<li>{{ . }}</li>
-		{{- end }}
-	</ul>
+	<main>
+		<div id="map"></div>
+		<ul>
+
+		</ul>
+	</main>
+	<footer>
+		Copyright 2022 Ariel Costas
+	</footer>
+
+	<script type="application/json">
+		{{ .Json}}
+	</script>
+	<script src="/static/mapa.js"></script>
 </body>
 
 </html>

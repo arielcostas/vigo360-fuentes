@@ -1,7 +1,9 @@
 package internal
 
 import (
+	"encoding/json"
 	"fmt"
+	"html/template"
 	"net/http"
 	"os"
 
@@ -12,6 +14,7 @@ import (
 func (s *Server) handleList() http.HandlerFunc {
 	type ResponseParams struct {
 		Fuentes []fuente.Fuente
+		Json    template.JS
 	}
 
 	return func(w http.ResponseWriter, r *http.Request) {
@@ -22,8 +25,13 @@ func (s *Server) handleList() http.HandlerFunc {
 			return
 		}
 
+		jsonFuentes, err := json.Marshal(fuentes)
+		if err != nil {
+			fmt.Fprintf(os.Stderr, "error generando JSON de fuentes: %s", err.Error())
+		}
 		err = templates.Render(w, "index.html", ResponseParams{
 			Fuentes: fuentes,
+			Json:    template.JS(jsonFuentes),
 		})
 		if err != nil {
 			fmt.Fprintf(w, "Hubo un error mostrando la página")
