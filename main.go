@@ -19,9 +19,14 @@ func main() {
 
 func run() error {
 	fmt.Printf("Iniciando vigo360-fuentes\n")
+	var PORT = os.Getenv("PORT")
+	if PORT == "" {
+		PORT = "8080"
+	}
 
 	var fr = fuente.NewMysqlRepository(database.GetDB())
 	var s = internal.NewServer(fr)
-	err := http.ListenAndServe(":8080", s)
+	fmt.Printf("Escuchando en puerto %s\n", PORT)
+	err := http.ListenAndServe(":"+PORT, s)
 	return err
 }
