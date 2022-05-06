@@ -19,7 +19,7 @@ func start() {
 		os.Exit(1)
 	}
 
-	fmt.Printf("database connection established\n")
+	fmt.Printf("Conexión a MySQL establecida\n")
 
 	err = conn.Ping()
 	if err != nil {
@@ -37,7 +37,7 @@ func start() {
 		fmt.Printf("error configuring database timezone: %s\n", err.Error())
 		os.Exit(1)
 	}
-	fmt.Printf("database configured\n")
+	fmt.Printf("Base de datos configurada\n")
 	db = conn
 }
 
