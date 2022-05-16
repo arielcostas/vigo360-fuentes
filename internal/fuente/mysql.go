@@ -35,7 +35,7 @@ func (r *MysqlRepository) ListByParroquia(parroquia string) ([]Fuente, error) {
 // Obtiene una fuente por su identificador
 func (r *MysqlRepository) GetById(id string) (Fuente, error) {
 	var fuente Fuente
-	err := r.db.QueryRowx("SELECT * FROM fuentes WHERE id=? LIMIT 1", id).StructScan(fuente)
+	err := r.db.QueryRowx("SELECT * FROM fuentes WHERE id=? LIMIT 1", id).StructScan(&fuente)
 	if err != nil {
 		return Fuente{}, err
 	}

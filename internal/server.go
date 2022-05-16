@@ -3,11 +3,12 @@ package internal
 import (
 	"net/http"
 
+	"github.com/gorilla/mux"
 	"vigo360.es/fuentes/internal/fuente"
 )
 
 type Server struct {
-	router *http.ServeMux
+	router *mux.Router
 	fr     fuente.Repository
 }
 
@@ -24,8 +25,9 @@ func (s *Server) Routes() {
 		return
 	}
 
-	s.router = http.NewServeMux()
-	s.router.HandleFunc("/parroquia", s.handleListParroquia())
+	s.router = mux.NewRouter().StrictSlash(true)
+	s.router.HandleFunc("/fuentes/{id}", s.handleShowFuente())
+	s.router.HandleFunc("/parroquias/{id}", s.handleListParroquia())
 	s.router.HandleFunc("/", s.handleList())
 }
 
