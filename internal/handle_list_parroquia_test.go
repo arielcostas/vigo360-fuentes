@@ -12,7 +12,7 @@ func TestHandleListParroquiaValid(t *testing.T) {
 	var (
 		fr = fuente.NewMockRepository(false)
 		s  = NewServer(fr)
-		r  = httptest.NewRequest("GET", "/parroquia?parroquia=valid", nil)
+		r  = httptest.NewRequest("GET", "/parroquias/valid", nil)
 		w  = httptest.NewRecorder()
 	)
 
@@ -26,7 +26,7 @@ func TestHandleListParroquiaInvalid(t *testing.T) {
 	var (
 		fr = fuente.NewMockRepository(false)
 		s  = NewServer(fr)
-		r  = httptest.NewRequest("GET", "/parroquia?parroquia=invalid", nil)
+		r  = httptest.NewRequest("GET", "/parroquias/invalid", nil)
 		w  = httptest.NewRecorder()
 	)
 
@@ -40,7 +40,7 @@ func TestHandleListParroquiaDataError(t *testing.T) {
 	var (
 		fr = fuente.NewMockRepository(true)
 		s  = NewServer(fr)
-		r  = httptest.NewRequest("GET", "/parroquia?parroquia=valid", nil)
+		r  = httptest.NewRequest("GET", "/parroquias/valid", nil)
 		w  = httptest.NewRecorder()
 	)
 
