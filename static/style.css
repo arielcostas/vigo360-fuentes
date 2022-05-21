@@ -49,12 +49,16 @@ main {
 	width: 1280px;
 	border-radius: 4px;
 	overflow: hidden;
+	background-color: #fff;
 }
 
 a {
 	text-decoration: none;
 	color: var(--theme);
-	transition: color 300ms, opacity 300ms, background-color 300ms;
+}
+
+a:hover {
+	text-decoration: underline;
 }
 
 p {
@@ -235,4 +239,23 @@ select {
 #map {
 	width: 100%;
 	height: 600px;
+	max-height: 45vh;
+	max-width: 100vw;
+}
+
+#parroquias {
+	padding: 2rem;
+}
+
+#lista-parroquias {
+	margin-top: 2rem;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	row-gap: 0.5rem;
+}
+
+#lista-parroquias > li {
+	text-align: center;
+	list-style-type: none;
+	font-size: 1.1rem;
 }

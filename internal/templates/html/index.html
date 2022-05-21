@@ -19,9 +19,16 @@
 	{{- template "_header.html" }}
 	<main>
 		<div id="map"></div>
-		<ul>
-
-		</ul>
+		<div id="parroquias">
+			<h2>Por parroquia</h2>
+			<ul id="lista-parroquias">
+				{{ range $k, $v := .Parroquias }}
+				<li>
+					<a href="/parroquias/{{ $k }}">{{ $k }} ({{ $v }})</a>
+				</li>
+				{{ end }}
+			</ul>
+		</div>
 	</main>
 	<footer>
 		Copyright 2022 Ariel Costas

@@ -1,7 +1,7 @@
 var dataElement = document.querySelector("script[type='application/json']");
 var data = JSON.parse(dataElement.textContent);
 
-var map = L.map("map").setView([42.21, -8.7389], 12.2);
+var map = L.map("map").setView([42.21, -8.7389], 12);
 
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',

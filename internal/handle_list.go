@@ -13,8 +13,9 @@ import (
 
 func (s *Server) handleList() http.HandlerFunc {
 	type ResponseParams struct {
-		Fuentes []fuente.Fuente
-		Json    template.JS
+		Fuentes    []fuente.Fuente
+		Parroquias map[string]int
+		Json       template.JS
 	}
 
 	return func(w http.ResponseWriter, r *http.Request) {
@@ -25,13 +26,24 @@ func (s *Server) handleList() http.HandlerFunc {
 			return
 		}
 
+		var parroquias = make(map[string]int)
+		for _, fuente := range fuentes {
+			if p, ok := parroquias[fuente.Parroquia]; ok {
+				parroquias[fuente.Parroquia] = p + 1
+			} else {
+				parroquias[fuente.Parroquia] = 1
+			}
+		}
+
+		// Generar JSON para incluir en JavaScript (para mapa)
 		jsonFuentes, err := json.Marshal(fuentes)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "error generando JSON de fuentes: %s", err.Error())
 		}
 		err = templates.Render(w, "index.html", ResponseParams{
-			Fuentes: fuentes,
-			Json:    template.JS(jsonFuentes),
+			Fuentes:    fuentes,
+			Parroquias: parroquias,
+			Json:       template.JS(jsonFuentes),
 		})
 		if err != nil {
 			fmt.Fprintf(w, "Hubo un error mostrando la página")
