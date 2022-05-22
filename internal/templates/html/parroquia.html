@@ -18,11 +18,11 @@
 	<main>
 		<div id="map"></div>
 		<div id="parroquias">
-			<h2>Por parroquia</h2>
+			<h2>{{ .Nombre }}</h2>
 			<ul id="lista-parroquias">
-				{{ range $k, $v := .Parroquias }}
+				{{ range $k, $v := .Fuentes }}
 				<li>
-					<a href="/parroquias/{{ $k }}">{{ $k }} ({{ $v }})</a>
+					<a href="/fuentes/{{ $v.Id }}">{{ $v.Titulo }} ({{ $v.Id }})</a>
 				</li>
 				{{ end }}
 			</ul>
