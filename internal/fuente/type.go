@@ -1,8 +1,9 @@
 package fuente
 
 type Fuente struct {
-	Id     string
-	Titulo string
+	Id       string
+	IdImagen string
+	Titulo   string
 
 	Ubicacion string
 	Parroquia string
@@ -12,7 +13,7 @@ type Fuente struct {
 	Caudal    string
 	Calidad   string
 	Origen    string
-	Lavadero  string
+	Lavadero  bool
 	Analizada string
 	Nota      string
 }

@@ -1,6 +1,10 @@
 package fuente
 
-import "github.com/jmoiron/sqlx"
+import (
+	"strings"
+
+	"github.com/jmoiron/sqlx"
+)
 
 type MysqlRepository struct {
 	db *sqlx.DB
@@ -16,6 +20,11 @@ func NewMysqlRepository(db *sqlx.DB) *MysqlRepository {
 func (r *MysqlRepository) List() ([]Fuente, error) {
 	var fuentes []Fuente
 	err := r.db.Select(&fuentes, `SELECT * FROM fuentes`)
+	for i, f := range fuentes {
+		f.IdImagen = strings.Split(f.Id, "/")[0]
+		f.IdImagen = strings.TrimSpace(f.IdImagen)
+		fuentes[i] = f
+	}
 	if err != nil {
 		return []Fuente{}, err
 	}
@@ -26,6 +35,11 @@ func (r *MysqlRepository) List() ([]Fuente, error) {
 func (r *MysqlRepository) ListByParroquia(parroquia string) ([]Fuente, error) {
 	var fuentes []Fuente
 	err := r.db.Select(&fuentes, `SELECT * FROM fuentes WHERE parroquia = ?`, parroquia)
+	for i, f := range fuentes {
+		f.IdImagen = strings.Split(f.Id, " / ")[0]
+		f.IdImagen = strings.TrimSpace(f.IdImagen)
+		fuentes[i] = f
+	}
 	if err != nil {
 		return []Fuente{}, err
 	}
@@ -39,5 +53,8 @@ func (r *MysqlRepository) GetById(id string) (Fuente, error) {
 	if err != nil {
 		return Fuente{}, err
 	}
+	fuente.IdImagen = strings.Split(fuente.Id, " / ")[0]
+	fuente.IdImagen = strings.TrimSpace(fuente.IdImagen)
+
 	return fuente, nil
 }
