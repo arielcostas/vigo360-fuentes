@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{{ .Fuente.Titulo }} | Fuentes Vigo360</title>
+
+	<link rel="stylesheet" href="/static/leaflet/leaflet.css">
+	<script src="/static/leaflet/leaflet.js"></script>
+
+	<link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+	{{- template "_header.html" }}
+	<main id="fuente">
+		<div id="map"></div>
+		<div id="info">
+			<h2>{{ .Fuente.Titulo }} ({{ .Fuente.Id}})</h2>
+			<table id="pildoras-informativas">
+				<tr>
+					<th>Ubicación</th>
+					<td>{{ .Fuente.Ubicacion }} - {{ .Fuente.Parroquia }}</td>
+				</tr>
+				<tr>
+					<th>Caudal</th>
+					<td class="color{{ .Fuente.Caudal }}">{{ .Fuente.Caudal }}</td>
+				</tr>
+				<tr>
+					<th>Calidad</th>
+					<td class="color-{{ .Fuente.Calidad }}">{{ .Fuente.Calidad }}</td>
+				</tr>
+				{{ with ne .Fuente.Analizada "0" }}
+				<tr>
+					<th>Analizada desde</th>
+					<td>{{ . }}</td>
+				</tr>
+				{{ end }}
+				<tr>
+					<th>Tiene lavadero</th>
+					<td>{{ sino .Fuente.Lavadero }}</td>
+				</tr>
+			</table>
+			<p id="origen">{{ .Fuente.Origen }}</p>
+			{{ with .Fuente.Nota }}<p id="nota"><strong>Nota: </strong>{{ . }}</p>{{ end}}
+		</div>
+	</main>
+	<footer>
+		Copyright 2022 Ariel Costas
+	</footer>
+
+	<script type="application/json">
+		[{{ .Json}}]
+	</script>
+	<script src="/static/mapa.js"></script>
+</body>
+
+</html>

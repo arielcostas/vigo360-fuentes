@@ -10,6 +10,15 @@ import (
 //go:embed html/*
 var raw embed.FS
 
+var funcs = template.FuncMap{
+	"sino": func(cond bool) string {
+		if cond {
+			return "Sí"
+		}
+		return "No"
+	},
+}
+
 var t = func() *template.Template {
 	t := template.New("")
 
@@ -18,7 +27,7 @@ var t = func() *template.Template {
 		filename := de.Name()
 		contents, _ := raw.ReadFile("html/" + filename)
 
-		_, err := t.New(filename).Parse(string(contents))
+		_, err := t.New(filename).Funcs(funcs).Parse(string(contents))
 		if err != nil {
 			panic(err)
 		}
