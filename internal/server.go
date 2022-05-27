@@ -33,6 +33,7 @@ func (s *Server) Routes() {
 	s.router = mux.NewRouter().StrictSlash(true)
 	s.router.HandleFunc("/fuentes/{id}", s.handleShowFuente())
 	s.router.HandleFunc("/parroquias/{id}", s.handleListParroquia())
+	s.router.HandleFunc("/sitemap.xml", s.handleSitemap())
 	s.router.HandleFunc("/", s.handleList())
 }
 
