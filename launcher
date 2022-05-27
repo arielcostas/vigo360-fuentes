@@ -8,5 +8,5 @@ then
 elif  [ "$1" == "build" ];
 then
 	sass --source-map --embed-source-map -s compressed static/style.scss:static/style.css
-	go build -o vigo360-fuentes -ldflags "-X main.version=$(git rev-parse --short HEAD)" .
+	go build -o fuentes -ldflags "-X main.version=$(git rev-parse --short HEAD)" .
 fi

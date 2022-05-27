@@ -1,0 +1,24 @@
+[Unit]
+Description=Fuentes Vigo360
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/fuentes
+User=vigo360
+Type=simple
+Restart=on-failure
+RestartSec=15
+EnvironmentFile=/opt/fuentes/.env
+ExecStart=/opt/fuentes/fuentes
+
+ProtectDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+SystemCallFilter=@system-service
+SystemCallErrorNumber=EPERM
+NoNewPrivileges=yes
+PrivateTmp=yes
+
+[Install]
+WantedBy=default.target
