@@ -1,3 +1,7 @@
+/*
+	El contenido de este archivo está cedido bajo una licencia
+	CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+*/
 DROP SCHEMA IF EXISTS vigo360_fuentes;
 CREATE SCHEMA vigo360_fuentes;
 USE vigo360_fuentes;

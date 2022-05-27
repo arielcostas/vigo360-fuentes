@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+	El contenido de este archivo está cedido bajo una licencia
+	CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+-->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	<xs:element name="fuentes">
 		<xs:complexType>
