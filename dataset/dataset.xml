@@ -3,6 +3,9 @@
 	El contenido de este archivo está cedido bajo una licencia
 	CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 -->
+<!-- 
+	Esquema disponible en https://fuentes.vigo360.es/static/nogit/dataset.xsd
+-->
 <fuentes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dataset.xsd">
 	<fuente id="30">
 		<titulo>Fonte do Abade - Bembrive</titulo>

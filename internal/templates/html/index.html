@@ -12,6 +12,58 @@
 
 	<link rel="icon" href="/static/logo.png" />
 	<link rel="stylesheet" href="/static/style.css">
+
+	<script type="application/ld+json">
+		{
+			"@context":"https://schema.org/",
+			"@type":"Dataset",
+			"name":"Fuentes de Vigo",
+			"description":"Contiene las 347 fuentes de la ciudad de Vigo, e información relativa a estas.",
+			"url":"https://fuentes.vigo360.es/",
+			"identifier": "https://vigo360.es/trabajos/fuentes-vigo",
+			"keywords":[
+			   "Fuentes",
+			   "Vigo (ciudad)",
+			   "Concello de Vigo"
+			],
+			"license" : "https://creativecommons.org/licenses/by-sa/4.0/",
+			"isAccessibleForFree" : true,
+			"creator": [{
+			   "@type":"Person",
+			   "givenName": "Daniel",
+			   "familyName": "Antomil Pérez",
+			   "name": "Daniel Antomil Pérez",
+			   "url": "https://vigo360.es/autores/daniel-antomil"
+			},{
+				"@type":"Person",
+				"givenName": "Ariel",
+				"familyName": "Costas",
+				"name": "Ariel Costas",
+				"url": "https://vigo360.es/autores/ariel-costas"
+			}],
+			"distribution":[
+			   {
+				  "@type":"DataDownload",
+				  "encodingFormat":"XML",
+				  "contentUrl":"https://fuentes.vigo360.es/static/nogit/dataset.xml"
+			   },
+			   {
+				  "@type":"DataDownload",
+				  "encodingFormat":"application/sql",
+				  "contentUrl":"https://fuentes.vigo360.es/static/nogit/datos.sql"
+			   }
+			],
+			"spatialCoverage":{
+			   "@type":"Place",
+			   "address": "Vigo, Pontevedra",
+			   "addressCountry": "ES",
+			   "geo":{
+				  "@type":"GeoShape",
+				  "box":"42.165388, -8.813266  42.257158, -8.633637"
+			   }
+			}
+		}	  
+	</script>
 </head>
 
 <body>

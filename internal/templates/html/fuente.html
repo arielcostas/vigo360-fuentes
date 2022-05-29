@@ -12,6 +12,37 @@
 
 	<link rel="icon" href="/static/logo.png" />
 	<link rel="stylesheet" href="/static/style.css">
+
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Article",
+			"articleSection": [
+				"Fuentes",
+				"{{ .Fuente.Parroquia }}"
+			],
+			"author": [{
+				"@type": "Person",
+				"name": "Daniel Antomil",
+				"url": "https://vigo360.es/autores/daniel-antomil"
+			}, {
+				"@type": "Person",
+				"name": "Ariel Costas",
+				"url": "https://vigo360.es/autores/ariel-costas"
+			}],
+			"dateModified": "2022-05-29T13:46:00+02:00",
+			"datePublished": "2022-05-29T13:46:00+02:00",
+			"headline": "{{ .Fuente.Titulo }}",
+			"image": {
+				"@type": "ImageObject",
+				"caption": "{{ .Fuente.Titulo }}",
+				"license": "https://creativecommons.org/licenses/by-sa/4.0/",
+				"acquireLicensePage": "https://vigo360.es/legal",
+				"contentUrl": "/static/images/{{ .Fuente.IdImagen }}.jpg"
+			},
+			"license": "https://creativecommons.org/licenses/by-sa/4.0/"
+		}
+	</script>
 </head>
 
 <body>
