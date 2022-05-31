@@ -352,6 +352,10 @@ select {
 		margin-left: 1rem;
 	}
 
+	.dos-columnas {
+		grid-template-columns: 1fr;
+	}
+
 	footer {
 		flex-direction: column;
 	}
