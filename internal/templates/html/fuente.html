@@ -8,7 +8,8 @@
 	<title>{{ .Fuente.Titulo }} | Fuentes Vigo360</title>
 
 	<link rel="stylesheet" href="/static/leaflet/leaflet.css">
-	<meta name="description" content="Información relativa a {{ .Fuente.Titulo }} con información del caudal, calidad el agua, origen del nombre...">
+	<meta name="description"
+		content="Información relativa a {{ .Fuente.Titulo }} con información del caudal, calidad el agua, origen del nombre...">
 
 	<link rel="icon" href="/static/logo.png" />
 	<link rel="stylesheet" href="/static/style.css">
@@ -75,10 +76,10 @@
 							<th>Calidad</th>
 							<td class="color-{{ .Fuente.Calidad }}">{{ .Fuente.Calidad }}</td>
 						</tr>
-						{{ with ne .Fuente.Analizada "0" }}
+						{{ if ne .Fuente.Analizada "0" }}
 						<tr>
 							<th>Analizada desde</th>
-							<td>{{ . }}</td>
+							<td>{{ .Fuente.Analizada }}</td>
 						</tr>
 						{{ end }}
 						<tr>
