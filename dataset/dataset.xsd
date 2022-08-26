@@ -7,37 +7,33 @@
 	<xs:element name="fuentes">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element ref="fuente" maxOccurs="unbounded" />
+				<xs:element name="fuente" type="tipo_fuente" minOccurs="1" maxOccurs="unbounded" />
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
 
-	<xs:element name="fuente">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="titulo" type="xs:string" />
-				<xs:element ref="ubicacion" />
-				<xs:element name="caudal" type="tipo_caudal" />
-				<xs:element name="calidad" type="tipo_calidad" />
-				<xs:element name="origen" type="xs:string" />
-				<xs:element name="lavadero" type="xs:boolean" />
-				<xs:element name="analizada" minOccurs="0" type="xs:gYear" />
-				<xs:element name="nota" minOccurs="0" type="xs:string" />
-			</xs:sequence>
-			<xs:attribute name="id" use="required" type="tipo_id" id="id" />
-		</xs:complexType>
-	</xs:element>
+	<xs:complexType name="tipo_fuente">
+		<xs:sequence>
+			<xs:element name="titulo" type="xs:string" />
+			<xs:element name="ubicacion" type="tipo_ubicacion" />
+			<xs:element name="caudal" type="tipo_caudal" />
+			<xs:element name="calidad" type="tipo_calidad" />
+			<xs:element name="origen" type="xs:string" />
+			<xs:element name="lavadero" type="xs:boolean" />
+			<xs:element name="analizada" minOccurs="0" type="xs:gYear" />
+			<xs:element name="nota" minOccurs="0" type="xs:string" />
+		</xs:sequence>
+		<xs:attribute name="id" use="required" type="tipo_id" id="id" />
+	</xs:complexType>
 
-	<xs:element name="ubicacion">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="lugar" type="xs:string" />
-				<xs:element name="parroquia" type="xs:string" />
-				<xs:element name="latitud" type="xs:string" />
-				<xs:element name="longitud" type="xs:string" />
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
+	<xs:complexType name="tipo_ubicacion">
+		<xs:sequence>
+			<xs:element name="lugar" type="xs:string" />
+			<xs:element name="parroquia" type="xs:string" />
+			<xs:element name="latitud" type="xs:string" />
+			<xs:element name="longitud" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
 
 	<xs:simpleType name="tipo_id">
 		<xs:restriction base="xs:string">
