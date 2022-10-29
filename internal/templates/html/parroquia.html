@@ -7,9 +7,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<title>Fuentes en {{ .Nombre }} | Fuentes Vigo360</title>
-	<meta name="description" content="Un listado de todas las fuentes y manantiales que podemos encontrar en la parroquia de {{ .Nombre }}.">
-
-	<script defer data-domain="fuentes.vigo360.es" src="https://analytics.costas.dev/js/plausible.js"></script>
+	<meta name="description"
+		content="Un listado de todas las fuentes y manantiales que podemos encontrar en la parroquia de {{ .Nombre }}.">
 
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="{{ .Nombre }}" />
@@ -18,9 +17,30 @@
 	<meta property="og:locale" content="es_ES" />
 
 	<link rel="stylesheet" href="/static/leaflet/leaflet.css">
-	
+
 	<link rel="icon" href="/static/logo.png" />
 	<link rel="stylesheet" href="/static/style.css">
+
+	<link href="/static/orestbida-cookieconsent-2.8.8.css" media="print" onload="this.media='all'" rel="stylesheet">
+
+	<script src="/static/orestbida-cookieconsent-2.8.8.js"></script>
+	<script src="https://www.googletagmanager.com/gtag/js?id=G-TWHQDPZTQ6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
+
+		gtag('config', 'G-548ECFD9FK');
+		gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'analytics_storage': 'denied'
+		});
+	</script>
+
 </head>
 
 <body>

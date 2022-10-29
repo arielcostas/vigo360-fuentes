@@ -14,8 +14,6 @@
 	<link rel="icon" href="/static/logo.png" />
 	<link rel="stylesheet" href="/static/style.css">
 
-	<script defer data-domain="fuentes.vigo360.es" src="https://analytics.costas.dev/js/plausible.js"></script>
-
 	<meta property="og:title" content="{{ .Fuente.Titulo }}" />
 	<meta property="og:type" content="article" />
 	<meta property="og:site_name" content="Las fuentes de Vigo - Vigo360" />
@@ -52,6 +50,26 @@
 			},
 			"license": "https://creativecommons.org/licenses/by-sa/4.0/"
 		}
+	</script>
+
+	<link href="/static/orestbida-cookieconsent-2.8.8.css" media="print" onload="this.media='all'" rel="stylesheet">
+
+	<script src="/static/orestbida-cookieconsent-2.8.8.js"></script>
+	<script src="https://www.googletagmanager.com/gtag/js?id=G-TWHQDPZTQ6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
+
+		gtag('config', 'G-548ECFD9FK');
+		gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'analytics_storage': 'denied'
+		});
 	</script>
 </head>
 
