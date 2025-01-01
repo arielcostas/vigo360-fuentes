@@ -8,7 +8,6 @@
 	  "openmaptiles:mapbox:owner": "openmaptiles"
 	},
 	"sources": {
-	  
 	  "openmaptiles": {
 		"type": "vector",
 		"tiles": [
@@ -16,10 +15,8 @@
 		],
 		"attribution": "<a href=\"https://www.openmaptiles.org/\" target=\"_blank\">&copy; OpenMapTiles</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">&copy; OpenStreetMap contributors</a>"
 	  }
-
 	},
-	"sprite": "https://openmaptiles.github.io/maptiler-basic-gl-style/sprite",
-	"glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=hCPdrWD3tbTl8PvZ4qXW",
+	"glyphs": "https://maps.costas.dev/font/{fontstack}/{range}",
 	"layers": [
 	  {
 		"id": "background",

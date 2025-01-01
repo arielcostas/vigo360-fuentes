@@ -11,7 +11,12 @@ const schema = {
 	url: "https://fuentes.vigo360.es",
 	identifier: "https://vigo360.es/trabajos/fuentes-vigo",
 	keywords: ["Fuentes", "Vigo", "Concello de Vigo"],
-	license: "https://creativecommons.org/licenses/by-sa/4.0/",
+	license: {
+		"@type": "CreativeWork",
+		"@id": "https://creativecommons.org/licenses/by-sa/4.0/",
+		url: "https://creativecommons.org/licenses/by-sa/4.0/",
+		name: "Creative Commons Attribution-ShareAlike 4.0 International",
+	},
 	isAccessibleForFree: true,
 	creator: [
 		{
@@ -47,7 +52,7 @@ const schema = {
 			"@type": "DataDownload",
 			encodingFormat: "application/geo+json",
 			contentUrl: "https://fuentes.vigo360.es/dataset/fuentes.geojson",
-		}
+		},
 	],
 	spatialCoverage: {
 		"@type": "Place",
@@ -67,79 +72,95 @@ const schema = {
 		></script>
 	</Fragment>
 
+	<noscript>
+		JavaScript es necesario para ver esta página, porque se muestra
+		únicamente un mapa interactivo. Gracias por tu comprensión.
+	</noscript>
+
 	<div id="map"></div>
+</Layout>
 
-	<style>
-		#map {
-			height: 100vh;
-			width: 100%;
+<style>
+	#map {
+		height: 100vh;
+		width: 100%;
+	}
+</style>
+
+<script>
+	import maplibregl from "maplibre-gl";
+	import "maplibre-gl/dist/maplibre-gl.css";
+
+	let map = new maplibregl.Map({
+		container: "map",
+		style: "/mapstyle.json",
+		center: [-8.726, 42.232],
+		zoom: 14,
+		maxBounds: [
+			[-8.87068820592648, 42.13799035757435],
+			[-8.530510219251278, 42.31734964922503],
+		],
+	});
+
+	const loaded = new Promise<void>((resolve) => {
+		map.on("load", () => resolve());
+	});
+
+	await loaded;
+
+	map.addSource("fuentes", {
+		type: "geojson",
+		data: "/dataset/fuentes.geojson",
+	});
+
+	map.addLayer({
+		id: "fuentes",
+		type: "circle",
+		source: "fuentes",
+		paint: {
+			"circle-radius": 10,
+			"circle-color": "#007cbf",
+			"circle-stroke-color": "#fff",
+			"circle-stroke-width": 1,
+		},
+	});
+
+	// When a click event occurs on a feature in the fuentes layer, open a popup at the
+	// location of the feature, with description HTML from its properties.
+	map.on("click", "fuentes", (e) => {
+		if (!e.features) return;
+
+		const geometry = e.features[0].geometry;
+		let coordinates;
+		if (geometry.type === "Point") {
+			coordinates = geometry.coordinates.slice();
+		} else {
+			return;
 		}
-	</style>
+		const {
+			name,
+			lugar,
+			parroquia,
+			origen,
+			caudal,
+			calidad,
+			lavadero,
+			nota,
+		} = e.features[0].properties;
 
-	<script>
-		import maplibregl from "maplibre-gl";
-		import "maplibre-gl/dist/maplibre-gl.css";
+		// Ensure that if the map is zoomed out such that multiple
+		// copies of the feature are visible, the popup appears
+		// over the copy being pointed to.
+		while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+			coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+		}
 
-		let map = new maplibregl.Map({
-			container: "map",
-			style: "/mapstyle.json",
-			center: [-8.726, 42.232],
-			zoom: 14,
-			maxBounds: [
-				[-8.87068820592648, 42.13799035757435],
-				[-8.530510219251278, 42.31734964922503],
-			],
-		});
+		if (coordinates.length !== 2) return;
 
-		const loaded = new Promise<void>((resolve) => {
-			map.on("load", () => resolve());
-		});
-
-		await loaded;
-
-		map.addSource("fuentes", {
-			type: "geojson",
-			data: "/dataset/fuentes.geojson",
-		});
-
-		map.addLayer({
-			id: "fuentes",
-			type: "circle",
-			source: "fuentes",
-			paint: {
-				"circle-radius": 10,
-				"circle-color": "#007cbf",
-				"circle-stroke-color": "#fff",
-				"circle-stroke-width": 1,
-			},
-		});
-
-		// When a click event occurs on a feature in the fuentes layer, open a popup at the
-		// location of the feature, with description HTML from its properties.
-		map.on("click", "fuentes", (e) => {
-			if (!e.features) return;
-
-			const geometry = e.features[0].geometry;
-			let coordinates;
-			if (geometry.type === "Point") {
-				coordinates = geometry.coordinates.slice();
-			} else {
-				return;
-			}
-			const { name, lugar, parroquia, origen, caudal, calidad, lavadero, nota } = e.features[0].properties;
-
-			// Ensure that if the map is zoomed out such that multiple
-			// copies of the feature are visible, the popup appears
-			// over the copy being pointed to.
-			while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-				coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-			}
-
-			if (coordinates.length !== 2) return;
-
-			new maplibregl.Popup()
-				.setLngLat([coordinates[0], coordinates[1]])
-				.setHTML(`
+		new maplibregl.Popup()
+			.setLngLat([coordinates[0], coordinates[1]])
+			.setHTML(
+				`
 					<h2>${name}</h2>
 					<p>${lugar} - ${parroquia}</p>
 					<dl>
@@ -152,22 +173,24 @@ const schema = {
 					</dl>
 					<p>${origen}</p>
 					${nota ? `<p><strong>Nota:</strong>${nota}</p>` : ""}
-					`)
-				.addTo(map);
-		});
+					`
+			)
+			.addTo(map);
+	});
 
-		// Change the cursor to a pointer when the mouse is over the fuentes layer.
-		map.on("mouseenter", "fuentes", () => {
-			map.getCanvas().style.cursor = "pointer";
-		});
+	// Change the cursor to a pointer when the mouse is over the fuentes layer.
+	map.on("mouseenter", "fuentes", () => {
+		map.getCanvas().style.cursor = "pointer";
+	});
 
-		// Add controls (zoom, compass, etc.)
-		map.addControl(new maplibregl.NavigationControl());
-		map.addControl(new maplibregl.GeolocateControl({
+	// Add controls (zoom, compass, etc.)
+	map.addControl(new maplibregl.NavigationControl());
+	map.addControl(
+		new maplibregl.GeolocateControl({
 			showUserLocation: true,
-			trackUserLocation: true
-		}));
-		map.addControl(new maplibregl.FullscreenControl());
-		map.addControl(new maplibregl.ScaleControl());
-	</script>
-</Layout>
+			trackUserLocation: true,
+		})
+	);
+	map.addControl(new maplibregl.FullscreenControl());
+	map.addControl(new maplibregl.ScaleControl());
+</script>
