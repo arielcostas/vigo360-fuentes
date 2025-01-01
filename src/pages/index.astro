@@ -1,11 +1,173 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import Layout from "../layouts/Layout.astro";
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const schema = {
+	"@context": "https://schema.org/",
+	"@type": "Dataset",
+	"@id": "https://fuentes.vigo360.es",
+	name: "Las fuentes de Vigo",
+	description:
+		"Contiene las 347 fuentes de la ciudad de Vigo, e información relativa a estas.",
+	url: "https://fuentes.vigo360.es",
+	identifier: "https://vigo360.es/trabajos/fuentes-vigo",
+	keywords: ["Fuentes", "Vigo", "Concello de Vigo"],
+	license: "https://creativecommons.org/licenses/by-sa/4.0/",
+	isAccessibleForFree: true,
+	creator: [
+		{
+			"@type": "Person",
+			"@id": "https://vigo360.es/autores/daniel-antomil",
+			givenName: "Daniel",
+			familyName: "Antomil Pérez",
+			name: "Daniel Antomil Pérez",
+			url: "https://vigo360.es/autores/daniel-antomil",
+		},
+		,
+		{
+			"@type": "Person",
+			"@id": "https://vigo360.es/autores/ariel-costas",
+			givenName: "Ariel",
+			familyName: "Costas",
+			name: "Ariel Costas",
+			url: "https://vigo360.es/autores/ariel-costas",
+		},
+	],
+	distribution: [
+		{
+			"@type": "DataDownload",
+			encodingFormat: "application/json",
+			contentUrl: "https://fuentes.vigo360.es/dataset/fuentes.json",
+		},
+		{
+			"@type": "DataDownload",
+			encodingFormat: "text/xml",
+			contentUrl: "https://fuentes.vigo360.es/dataset/fuentes.xml",
+		},
+		{
+			"@type": "DataDownload",
+			encodingFormat: "application/geo+json",
+			contentUrl: "https://fuentes.vigo360.es/dataset/fuentes.geojson",
+		}
+	],
+	spatialCoverage: {
+		"@type": "Place",
+		address: "Vigo, Pontevedra",
+		addressCountry: "ES",
+		geo: {
+			"@type": "GeoShape",
+			box: "42.165388, -8.813266  42.257158, -8.633637",
+		},
+	},
+};
 ---
 
 <Layout>
-	<Welcome />
+	<Fragment slot="jsonld">
+		<script type="application/ld+json" set:html={JSON.stringify(schema)}
+		></script>
+	</Fragment>
+
+	<div id="map"></div>
+
+	<style>
+		#map {
+			height: 100vh;
+			width: 100%;
+		}
+	</style>
+
+	<script>
+		import maplibregl from "maplibre-gl";
+		import "maplibre-gl/dist/maplibre-gl.css";
+
+		let map = new maplibregl.Map({
+			container: "map",
+			style: "/mapstyle.json",
+			center: [-8.726, 42.232],
+			zoom: 14,
+			maxBounds: [
+				[-8.87068820592648, 42.13799035757435],
+				[-8.530510219251278, 42.31734964922503],
+			],
+		});
+
+		const loaded = new Promise<void>((resolve) => {
+			map.on("load", () => resolve());
+		});
+
+		await loaded;
+
+		map.addSource("fuentes", {
+			type: "geojson",
+			data: "/dataset/fuentes.geojson",
+		});
+
+		map.addLayer({
+			id: "fuentes",
+			type: "circle",
+			source: "fuentes",
+			paint: {
+				"circle-radius": 10,
+				"circle-color": "#007cbf",
+				"circle-stroke-color": "#fff",
+				"circle-stroke-width": 1,
+			},
+		});
+
+		// When a click event occurs on a feature in the fuentes layer, open a popup at the
+		// location of the feature, with description HTML from its properties.
+		map.on("click", "fuentes", (e) => {
+			if (!e.features) return;
+
+			const geometry = e.features[0].geometry;
+			let coordinates;
+			if (geometry.type === "Point") {
+				coordinates = geometry.coordinates.slice();
+			} else {
+				return;
+			}
+			const { name, lugar, parroquia, origen, caudal, calidad, lavadero, nota } = e.features[0].properties;
+
+			// Ensure that if the map is zoomed out such that multiple
+			// copies of the feature are visible, the popup appears
+			// over the copy being pointed to.
+			while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+				coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+			}
+
+			if (coordinates.length !== 2) return;
+
+			new maplibregl.Popup()
+				.setLngLat([coordinates[0], coordinates[1]])
+				.setHTML(`
+					<h2>${name}</h2>
+					<p>${lugar} - ${parroquia}</p>
+					<dl>
+						<dt>Caudal</dt>
+						<dd>${caudal}</dd>
+						<dt>Calidad</dt>
+						<dd>${calidad}</dd>
+						<dt>¿Tiene lavadero?</dt>
+						<dd>${lavadero ? "Sí" : "No"}</dd>
+					</dl>
+					<p>${origen}</p>
+					${nota ? `<p><strong>Nota:</strong>${nota}</p>` : ""}
+					`)
+				.addTo(map);
+		});
+
+		// Change the cursor to a pointer when the mouse is over the fuentes layer.
+		map.on("mouseenter", "fuentes", () => {
+			map.getCanvas().style.cursor = "pointer";
+		});
+
+		// Add controls (zoom, compass, etc.)
+		map.addControl(new maplibregl.NavigationControl());
+		map.addControl(new maplibregl.GeolocateControl({
+			showUserLocation: true,
+			trackUserLocation: true
+		}));
+		map.addControl(new maplibregl.FullscreenControl());
+		map.addControl(new maplibregl.ScaleControl());
+	</script>
 </Layout>

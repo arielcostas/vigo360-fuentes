@@ -1,0 +1,4808 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+	El contenido de este archivo está cedido bajo una licencia
+	CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+-->
+<fuentes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://fuentes.vigo360.es/dataset/fuentes.xsd">
+	<fuente id="30">
+		<titulo>Fonte do Abade - Bembrive</titulo>
+		<ubicacion>
+			<lugar>Rúa de Mandín, 68</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.206319</latitud>
+			<longitud>-8.678782</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unas tierras propiedad de la parroquia de Bembrive (de hecho la casa rectoral se encontraba enfrente), y por extensión, al párroco o abad. Hasta 1999 se conocía como Fonte dos Freires.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="308">
+		<titulo>Fonte do Abade - Coruxo</titulo>
+		<ubicacion>
+			<lugar>Camiño da Taberna, 19</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.185754</latitud>
+			<longitud>-8.777277</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar donde se encuentra, cuyas tierras eran propiedad de la iglesia de Coruxo, y por extensión de su párroco o abad.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1984</analizada>
+	</fuente>
+	<fuente id="248">
+		<titulo>Fonte de Abalde</titulo>
+		<ubicacion>
+			<lugar>Rúa da Lagoa, 56 (ramal)</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.199991</latitud>
+			<longitud>-8.701124</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar donde se encuentra, Abalde (mal normativizado como Balde), que tiene su origen en un antropónimo medieval de posesor (Villam Abaldi), que significa las tierras de Abaldus o Avaldus (entre el siglo V y X). El origen del apellido Abalde se encuentra en este lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="444">
+		<titulo>Fonte da Abelleira</titulo>
+		<ubicacion>
+			<lugar>Sendero entre Fragoselo y el Parque Forestal de Coruxo</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.17521</latitud>
+			<longitud>-8.772438</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar donde se criaban las abejas, ya sea de forma salvaje o para producir miel.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="430">
+		<titulo>Fonte da Abilleira</titulo>
+		<ubicacion>
+			<lugar>Rúa do Abade Juan de Bastos (al pasar la VG-20)</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.187317</latitud>
+			<longitud>-8.734799</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar donde se criaban las abejas, ya sea de forma salvaje o para producir miel.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="315">
+		<titulo>Fonte do Agrón</titulo>
+		<ubicacion>
+			<lugar>Avenida de Ricardo Mella, cruce Camiño da Verdella</lugar>
+			<parroquia>Oia</parroquia>
+			<latitud>42.18373</latitud>
+			<longitud>-8.808073</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un agro (terreno cercado destinado a cultivo) más grande del entorno.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1985</analizada>
+	</fuente>
+	<fuente id="232">
+		<titulo>Fonte da Aguadiña</titulo>
+		<ubicacion>
+			<lugar>Rúa da Aguadiña, 19</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.233907</latitud>
+			<longitud>-8.68722</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar donde se encuentra, A Aguadiña, referido a una zona húmeda y con tendencia a estar cubierta de lama.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="364">
+		<titulo>Fonte de Alén</titulo>
+		<ubicacion>
+			<lugar>Camiño do Alén, 24</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.193045</latitud>
+			<longitud>-8.700861</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Esta fuente se conoce como A Fonte do Regueiro, referido a un pequeño río de agua que atraviesa el lugar, y como A Fonte de Chanes, en referencia a un apodo de un antiguo propietario de los terrenos donde se encuentra. El topónimo Alén, del que toma actualmente el nombre, hace referencia a unos campos situados más allá de un obstáculo.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="159">
+		<titulo>Fonte do Alto da Garrida</titulo>
+		<ubicacion>
+			<lugar>Estrada do Monte Alba, 6</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.165264</latitud>
+			<longitud>-8.72045</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al Alto da Garrida, donde se encuentra.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="55">
+		<titulo>Fonte do Ameal</titulo>
+		<ubicacion>
+			<lugar>Rúa do Ameal, 11</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.232542</latitud>
+			<longitud>-8.638303</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la presencia de amieiros, alisos, un árbol que abunda en lugares húmedos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="416">
+		<titulo>Fonte das Amieiras</titulo>
+		<ubicacion>
+			<lugar>Estrada de Bembrive, 157</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.206738</latitud>
+			<longitud>-8.692617</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la presencia de amieiros, alisos, un árbol que abunda en lugares húmedos. Antaño esta fuente se ubicaba más hacia el oeste, y esta fuente se creó por iniciativa vecinal, encañándose las aguas hacia aquí.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1995</analizada>
+	</fuente>
+	<fuente id="925">
+		<titulo>Fonte dos Amieiros</titulo>
+		<ubicacion>
+			<lugar>Final del Camiño das Figueiras</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.229273</latitud>
+			<longitud>-8.664317</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la presencia de amieiros, alisos, un árbol que abunda en lugares húmedos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>2006</analizada>
+	</fuente>
+	<fuente id="482">
+		<titulo>Fonte das Amilleiras</titulo>
+		<ubicacion>
+			<lugar>Camiño da Esqueiriña, 5</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.241691</latitud>
+			<longitud>-8.650521</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a las tierras inmediatas conocidas como A Millada, que reciben el nombre por dedicarse al cultivo de millo, cereal.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="27">
+		<titulo>Fonte das Aradas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Aradas, 1</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.205236</latitud>
+			<longitud>-8.673659</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unas tierras cultivadas mediante la técnica del arado, es decir, abriendo surcos en la tierra.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="202">
+		<titulo>Fonte da Arnela</titulo>
+		<ubicacion>
+			<lugar>Rúa da Arnela, 83</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.254952</latitud>
+			<longitud>-8.686798</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Arnela, topónimo que hace referencia a varios ríos que discurren por el lugar y que hacen que sea unas tierras húmedas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="371">
+		<titulo>Fonte das Aspras</titulo>
+		<ubicacion>
+			<lugar>Camiño das Aspras, 9</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.233814</latitud>
+			<longitud>-8.660858</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido posiblemente a unas tierras ásperas, difíciles de cultivar.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="103">
+		<titulo>Fonte do Auditorio</titulo>
+		<ubicacion>
+			<lugar>Parque de Castrelos</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.214233</latitud>
+			<longitud>-8.729705</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Toma el nombre del Auditorio de Castrelos, que está justo al lado</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="427">
+		<titulo>Fonte da Balsa</titulo>
+		<ubicacion>
+			<lugar>Estrada da Balsa, 8</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.198843</latitud>
+			<longitud>-8.742986</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al barrio de A Balsa, cuyo topónimo tiene su origen en que esta zona era bastante húmeda.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="100">
+		<titulo>Fonte da Balsa de Arriba</titulo>
+		<ubicacion>
+			<lugar>Estrada da Balsa, 85</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.196413</latitud>
+			<longitud>-8.743411</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al barrio de A Balsa, cuyo topónimo tiene su origen en que esta zona era bastante húmeda.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="300">
+		<titulo>Fonte de Balvís</titulo>
+		<ubicacion>
+			<lugar>Rúa de Manuel Cominges, 59</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.197718</latitud>
+			<longitud>-8.733652</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al barrio de Balvís, cuyo topónimo es bastante oscuro, y no se puede decir nada con certeza.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1982</analizada>
+	</fuente>
+	<fuente id="301">
+		<titulo>Fonte de Balvís Lavadoiro</titulo>
+		<ubicacion>
+			<lugar>Rúa de Manuel Cominges, 87</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.198332</latitud>
+			<longitud>-8.73311</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al barrio de Balvís, cuyo topónimo es bastante oscuro, y no se puede decir nada con certeza.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1982</analizada>
+	</fuente>
+	<fuente id="73">
+		<titulo>Fonte da Barca</titulo>
+		<ubicacion>
+			<lugar>Camiño da Fonte da Barca, 2</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.234123</latitud>
+			<longitud>-8.671152</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a unas barricas de vino que se introducían en la presa para que se hincharan y se volvieran herméticas para llenarlas de vino.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="150">
+		<titulo>Fonte da Barciela</titulo>
+		<ubicacion>
+			<lugar>Camiño da Barciela, 34</lugar>
+			<parroquia>Coia</parroquia>
+			<latitud>42.222074</latitud>
+			<longitud>-8.74198</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de A Barxiela, así denominado por ser unas tierras muy húmedas que no producen cultivo.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="SC1">
+		<titulo>Fonte da Barroca</titulo>
+		<ubicacion>
+			<lugar>Rúa dos Poboadores, fronte 64</lugar>
+			<parroquia>Santa María de Vigo</parroquia>
+			<latitud>42.236571</latitud>
+			<longitud>-8.729103</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Sin calificar</calidad>
+		<origen>Referido a una zona con una importante cuesta, en barranco, como es el lugar.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="165">
+		<titulo>Fonte das Barrocas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Barrocas, fronte 19</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.170792</latitud>
+			<longitud>-8.726283</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un lugar húmedo y cubierto de barro.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="149">
+		<titulo>Fonte de Barros</titulo>
+		<ubicacion>
+			<lugar>Baixada á Fonte de Barros, 10</lugar>
+			<parroquia>Coia</parroquia>
+			<latitud>42.220854</latitud>
+			<longitud>-8.74857</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Sin calificar</calidad>
+		<origen>Toma el nombre de un antiguo propietario de las tierras, José de Barros, que poseía todo este lugar y acabó fragmentándose entre sus herederos.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="93">
+		<titulo>Fonte do Barrouco</titulo>
+		<ubicacion>
+			<lugar>Camiño do Barrouco, 22</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.237234</latitud>
+			<longitud>-8.683175</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una zona con una cuesta importante, es decir, un barranco.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1976</analizada>
+	</fuente>
+	<fuente id="369">
+		<titulo>Fonte da Barxa</titulo>
+		<ubicacion>
+			<lugar>Camiño do Monte, 54</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.203839</latitud>
+			<longitud>-8.719335</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a una barxa, un terreno húmedo situado al lado de un curso de agua.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="389">
+		<titulo>Fonte da Becerreira</titulo>
+		<ubicacion>
+			<lugar>Rúa da Becerreira, 84</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.216935</latitud>
+			<longitud>-8.661554</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Toma el nombre del lugar de A Becerreira, que tendría su origen en la presencia de becerros en el lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1991</analizada>
+	</fuente>
+	<fuente id="111">
+		<titulo>Fonte de Beirán</titulo>
+		<ubicacion>
+			<lugar>Estrada de Beirán, 36</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.192048</latitud>
+			<longitud>-8.724591</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Toma el nombre del lugar de Beirán, cuyo topónimo parece tener su origen en el apellido de un antiguo propietario de los terrenos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="58">
+		<titulo>Fonte da Besada</titulo>
+		<ubicacion>
+			<lugar>Avenida do Aeroporto, 570</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.231538</latitud>
+			<longitud>-8.652912</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Toma el nombre del lugar de A Besada, referido a unas tierras cultivadas mediante la técnica de dar la vuelta a la tierra.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="81">
+		<titulo>Fonte do Blanqueiro</titulo>
+		<ubicacion>
+			<lugar>Camiño do Blanqueiro, 1</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.237551</latitud>
+			<longitud>-8.675515</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido seguramente al apodo del propietario de alguna de las tierras que atraviesa el camino, se conoce también como Fonte do Leria, seguramente por el apodo de uno de los antiguos propietarios de estas tierras. Oficialmente lleva ese nombre desde junio de 2016</origen>
+		<lavadero>true</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="269">
+		<titulo>Fonte da Bouzaboa</titulo>
+		<ubicacion>
+			<lugar>Camiño da Bouzaboa, 8</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.221512</latitud>
+			<longitud>-8.689239</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Toma el nombre del lugar de A Bouzaboa, lugar donde crecían arbustos de buena calidad, ya sea para combustible o para cualquier utilidad.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="322">
+		<titulo>Fonte dos Bouzós</titulo>
+		<ubicacion>
+			<lugar>Camiño dos Bouzós, 18</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.186466</latitud>
+			<longitud>-8.766581</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Toma el nombre de un conjunto de bouzas, lugares donde crecían arbustos. Se conocía como Fonte de Fragoselo.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1985</analizada>
+	</fuente>
+	<fuente id="393">
+		<titulo>Fonte de Burdés our Carballal</titulo>
+		<ubicacion>
+			<lugar>Entre el fin del Camiño do Carballal y el ramal que parte de la Estrada de Camposancos, 262</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.191524</latitud>
+			<longitud>-8.776252</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a que se encuentra en el lugar de Burdés, en Coruxo. Este topónimo es único en Galicia y su origen no está claro.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="92">
+		<titulo>Fonte da Cabadiña</titulo>
+		<ubicacion>
+			<lugar>Camiño da Simona, fronte 118</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.189405</latitud>
+			<longitud>-8.725163</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unas tierras que se cultivaban mediante la técnica de cavar la tierra, es decir, abrir surcos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="170">
+		<titulo>Fonte da Cacheira</titulo>
+		<ubicacion>
+			<lugar>Estrada do Freixo, 207</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.175367</latitud>
+			<longitud>-8.732883</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Cacheno, donde se encuentra. El topónimo hace referencia a un lugar que se partió, más concretamente a su parte pequeña.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="10">
+		<titulo>Fonte do Cacheno</titulo>
+		<ubicacion>
+			<lugar>Rúa do Cacheno, 45</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.206375</latitud>
+			<longitud>-8.698501</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Cacheno, donde se encuentra. El topónimo hace referencia a un lugar que se partió, más concretamente a su parte pequeña. Puede ser una piedra, una finca… Esta fuente se ubicaba en el número 43 (la casa de piedra que se ve de frente viniendo de Moledo) pero se trasladó a su lugar actual mezclando dos manantiales, lo que redujo su calidad. Se conocía como Fonte de Santiago - Cacheno.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="354">
+		<titulo>Fonte da Cal do Outeiro</titulo>
+		<ubicacion>
+			<lugar>Camiño da Cal do Outeiro, 10</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.16775</latitud>
+			<longitud>-8.799849</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Cal do Outeiro, que hace referencia a un canal (conducción de agua) que lleva al contiguo lugar de O Outeiro.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1987</analizada>
+	</fuente>
+	<fuente id="437">
+		<titulo>Fonte do Camiño da Puga</titulo>
+		<ubicacion>
+			<lugar>Camiño da Puga, 2</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.205821</latitud>
+			<longitud>-8.677394</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una zona de forma puntiaguda o al apellido de uno de sus antiguos propietarios.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="46">
+		<titulo>Fonte do Campo</titulo>
+		<ubicacion>
+			<lugar>Camiño do Souto, frente 6</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.222533</latitud>
+			<longitud>-8.649445</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un campo, es decir, a unas tierras destinadas a cultivo.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="475">
+		<titulo>Fonte da Cancalleira</titulo>
+		<ubicacion>
+			<lugar>Rúa de Subride, 145</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.235546</latitud>
+			<longitud>-8.678479</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Seguramente referido a un lugar donde se iba a buscar madera.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="23">
+		<titulo>Fonte da Capela</titulo>
+		<ubicacion>
+			<lugar>Cruce de la Estrada de San Cibrán con el Camiño da Capela</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.183323</latitud>
+			<longitud>-8.678879</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la capilla de San Cibrán, que se encuentra en las proximidades. Se conoce popularmente como Fonte dos Ramallos, que se refiere a un lugar con muchas ramas en el suelo, que se recogían para utilizarlas como leña.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="154">
+		<titulo>Fonte do Caramancho</titulo>
+		<ubicacion>
+			<lugar>Estrada de Valadares, 8</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.188907</latitud>
+			<longitud>-8.720776</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un caramancho, es decir, una construcción generalmente destinada a guardar los trastos, es decir, un galpón, un alboyo...</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="432">
+		<titulo>Fonte do Caramuxo</titulo>
+		<ubicacion>
+			<lugar>Rúa do Falcoido, 43</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.184544</latitud>
+			<longitud>-8.699818</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Probablemente referido a un caramancho, es decir, una construcción generalmente destinada a guardar los trastos, es decir, un galpón, un alboyo...</origen>
+		<lavadero>true</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="426">
+		<titulo>Fonte da Carapucha</titulo>
+		<ubicacion>
+			<lugar>Rúa da Carapucha, 18</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.200771</latitud>
+			<longitud>-8.730974</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Probablemente referido a una zona escondida, como si llevara una capucha, carapucha en gallego.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="376">
+		<titulo>Fonte do Carballiño do Pío</titulo>
+		<ubicacion>
+			<lugar>Ramal del Camiño do Pío</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.244592</latitud>
+			<longitud>-8.665379</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un roble (o varios) de reducido tamaño que habría en el lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1990</analizada>
+	</fuente>
+	<fuente id="901">
+		<titulo>Fonte do Carballo ou Fontefría</titulo>
+		<ubicacion>
+			<lugar>Ramal del sendero GR-53, a la altura de Fragoselo</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.175063</latitud>
+			<longitud>-8.768331</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un roble (o varios) que habría en el lugar. Fontefría haría referencia a unas aguas relativamente frías, lo suficiente para que dieran nombre a la fuente.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="SC2">
+		<titulo>Fonte do Carballoso</titulo>
+		<ubicacion>
+			<lugar>Sendero GR-53</lugar>
+			<parroquia>Oia</parroquia>
+			<latitud>42.180439</latitud>
+			<longitud>-8.782983</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Sin calificar</calidad>
+		<origen>Referido a un robledal que ocupaba antaño el lugar.</origen>
+		<lavadero>false</lavadero>
+		<nota>Esta fuente se construyó en 2021, meses antes de realizar este trabajo, y no tiene código por ahora, pero la incluimos igualmente.</nota>
+	</fuente>
+	<fuente id="240">
+		<titulo>Fonte do Caride</titulo>
+		<ubicacion>
+			<lugar>Estrada de Clara Campoamor, entre el Camiño dos Cañotais y el Camiño do Cañizo</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.188422</latitud>
+			<longitud>-8.717864</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un antropónimo medieval de origen germánico, se trata de un Villam Quaeriti, es decir, las tierras de Quaeritus en la Edad Media.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="102">
+		<titulo>Fonte das Carneiras</titulo>
+		<ubicacion>
+			<lugar>Rúa de Manuel Cominges, 158</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.194837</latitud>
+			<longitud>-8.723229</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Debido al lugar de As Carneiras, referido seguramente a un lugar pedregoso, como otros topónimos semejantes.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="82">
+		<titulo>Fonte da Carrancha</titulo>
+		<ubicacion>
+			<lugar>Camiño da Canexa, entre 3 y 5</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.245623</latitud>
+			<longitud>-8.671201</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Debido al sobrenombre de una antigua propietaria de la casa que se encuentra detrás de la fuente, conocida como A Casa de Consuelo da Carrancha.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="155">
+		<titulo>Fonte do Carregal</titulo>
+		<ubicacion>
+			<lugar>Camiño do Cañizo, 1</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.186554</latitud>
+			<longitud>-8.719266</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de Carregal, topónimo referido a una zona donde crecen carrizos, un tipo de caña.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="366">
+		<titulo>Fonte da Carteira</titulo>
+		<ubicacion>
+			<lugar>Rúa da Cabada, ramal que sale del número 8</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.199794</latitud>
+			<longitud>-8.694357</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Debido seguramente a unas tierras gravadas con un impuesto consistente en un cuarto de la producción.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="263">
+		<titulo>Fonte do Casal</titulo>
+		<ubicacion>
+			<lugar>Rúa do Lavadeiro, 7</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.238756</latitud>
+			<longitud>-8.691406</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Mala</calidad>
+		<origen>Debido al lugar de O Casal, así conocido por ser donde se ubicaban un conjunto de casas hace siglos.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="245">
+		<titulo>Fonte de Casimiro</titulo>
+		<ubicacion>
+			<lugar>Rúa da Tomada, 26</lugar>
+			<parroquia>Navia</parroquia>
+			<latitud>42.205094</latitud>
+			<longitud>-8.766924</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Debido al nombre de un antiguo propietario de las tierras que ocupa.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="57">
+		<titulo>Fonte do Castañal</titulo>
+		<ubicacion>
+			<lugar>Rúa do Castañal, 5</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.236118</latitud>
+			<longitud>-8.660547</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a uno o varios castaños que ocupaban antaño el lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="32">
+		<titulo>Fonte de Castiñeiras</titulo>
+		<ubicacion>
+			<lugar>Camiño das Castiñeiras, 40</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.210283</latitud>
+			<longitud>-8.68618</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un bosque de castaños que ocupaba antaño este lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="386">
+		<titulo>Fonte do Castor</titulo>
+		<ubicacion>
+			<lugar>Camiño da Barreira, 26</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.196014</latitud>
+			<longitud>-8.694807</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al nombre de un antiguo propietario de las tierras. Se conocía como A Fonte Nova.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1991</analizada>
+	</fuente>
+	<fuente id="417">
+		<titulo>Fonte das Catro Pontes</titulo>
+		<ubicacion>
+			<lugar>Camiño da Buíña, 23</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.259801</latitud>
+			<longitud>-8.676291</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de As Catro Pontes, que se refiere a cuatro puentes que existían para atravesar el Río Pugariño, que marca el límite entre Teis y Chapela.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1996</analizada>
+	</fuente>
+	<fuente id="919">
+		<titulo>Fonte da Cavadiña</titulo>
+		<ubicacion>
+			<lugar>Camiño do Pouso (en el sendero que parte frente al 109)</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.198743</latitud>
+			<longitud>-8.671048</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a unas tierras que se cavaban, es decir, que se cultivaban mediante la creación de surcos en la tierra.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="40">
+		<titulo>Fonte do Cemiterio</titulo>
+		<ubicacion>
+			<lugar>Subida ó Cemiterio de Puxeiros, 55</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.215648</latitud>
+			<longitud>-8.672334</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al Cementerio de Lavadores, que se encuentra en las inmediaciones.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="50">
+		<titulo>Fonte de Cenlle</titulo>
+		<ubicacion>
+			<lugar>Avenida de Santa Mariña, 105</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.221418</latitud>
+			<longitud>-8.658008</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un antropónimo medieval de origen germánico, hace referencia a unas tierras llamadas Villam Ceeli, es decir, las tierras de Ceelus</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="368">
+		<titulo>Fonte do Centro Ríos</titulo>
+		<ubicacion>
+			<lugar>Camiño de Ríos, 21</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.256669</latitud>
+			<longitud>-8.688705</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de Ríos, así denominado por los cursos de agua que desembocan en el lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="22">
+		<titulo>Fonte de Cerdeirós</titulo>
+		<ubicacion>
+			<lugar>Camiño de Cerdeirós, 30</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.191921</latitud>
+			<longitud>-8.682284</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un bosque de cerezos que ocupaba el lugar. El nombre real es Cerdeiró, y no Cerdeirós, como de hecho figuraba en las fichas hasta 1999</origen>
+		<lavadero>true</lavadero>
+		<analizada>1999</analizada>
+	</fuente>
+	<fuente id="59">
+		<titulo>Fonte de Cernades</titulo>
+		<ubicacion>
+			<lugar>Rúa de Cernades - bajo Avenida do Aeroporto</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.233808</latitud>
+			<longitud>-8.647154</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido seguramente a un lugar quemado para ser puesto a cultivar, es decir, una cernada.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="420">
+		<titulo>Fonte da Changa</titulo>
+		<ubicacion>
+			<lugar>Camiño da Valada, 65</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.172406</latitud>
+			<longitud>-8.718494</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Una changa es un trabajo de poca monta o el hacer un negocio. Aplicado a unas tierras, se ha de deber a que se hacía negocio con los productos que daban o a que no se cultivaban correctamente.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1996</analizada>
+	</fuente>
+	<fuente id="163">
+		<titulo>Fonte da Chosca</titulo>
+		<ubicacion>
+			<lugar>Camiño da Igrexa (Parque do Antigo Baile)</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.178672</latitud>
+			<longitud>-8.72481</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al apodo de un antiguo propietario de los terrenos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="68">
+		<titulo>Fonte do Chouzo</titulo>
+		<ubicacion>
+			<lugar>Avenida do Tranvía, al pasar el cruce del Camiño do Lugar, por el lado de los pares</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.226125</latitud>
+			<longitud>-8.660343</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un terreno cerrado sobre la casa, conocidos como chousos y que el Concello de Vigo escribe sistemáticamente este topónimo como chouzo.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="200">
+		<titulo>Fonte da Chumba</titulo>
+		<ubicacion>
+			<lugar>Avenida de Galicia, 274</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.258976</latitud>
+			<longitud>-8.679898</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una zona donde abundaría el plomo, chumbo en gallego.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="117">
+		<titulo>Fonte do Cocho</titulo>
+		<ubicacion>
+			<lugar>Estrada de Clara Campoamor, 28</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.207971</latitud>
+			<longitud>-8.728094</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un campo destinado a cultivo, generalmente conocidos como cochos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="496">
+		<titulo>Fonte do Coello</titulo>
+		<ubicacion>
+			<lugar>Sendero entre la Estrada do Freixo y la Estrada de San Xoan</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.185217</latitud>
+			<longitud>-8.734571</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido seguramente a una zona donde se criaban conejos, o donde un día apareció uno muerto (como sucede en topónimos similares), no se descarta que sea el apodo de un antiguo propietario de las tierras.</origen>
+		<lavadero>false</lavadero>
+		<analizada>2008</analizada>
+	</fuente>
+	<fuente id="251">
+		<titulo>Fonte do Cornucho</titulo>
+		<ubicacion>
+			<lugar>Rúa da Cabada, 12</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.200859</latitud>
+			<longitud>-8.696075</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a que la fuente estaba situado en un corno, es decir, en una esquina. Se le conoce popularmente como Fonte do Galomacho en referencia al apodo de un antiguo propietario de los terrenos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="361">
+		<titulo>Fonte da Corveira</titulo>
+		<ubicacion>
+			<lugar>Baixada á Praia, 235</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.172039</latitud>
+			<longitud>-8.814124</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar donde abundan los cuervos, en este caso, al estar junto al mar, se refiere al corvo mariño.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1987</analizada>
+	</fuente>
+	<fuente id="375">
+		<titulo>Fonte do Coto</titulo>
+		<ubicacion>
+			<lugar>Rúa da Rabadeira, 34</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.234976</latitud>
+			<longitud>-8.651661</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al un punto elevado de un monte, generalmente rocoso.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="9">
+		<titulo>Fonte das Coutadas - Beade</titulo>
+		<ubicacion>
+			<lugar>Camiño da Vaca Morta, 8</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.193518</latitud>
+			<longitud>-8.698382</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de As Coutadas, así denominado por tratarse de unas tierras acotadas, generalmente de monte.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1974</analizada>
+	</fuente>
+	<fuente id="121">
+		<titulo>Fonte das Coutadas - Freixeiro</titulo>
+		<ubicacion>
+			<lugar>Rúa das Coutadas, 88</lugar>
+			<parroquia>Freixeiro</parroquia>
+			<latitud>42.221038</latitud>
+			<longitud>-8.719893</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de As Coutadas, así denominado por tratarse de unas tierras acotadas, se trataba de una zona de latifundios.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1977</analizada>
+	</fuente>
+	<fuente id="130">
+		<titulo>Fonte da Cova</titulo>
+		<ubicacion>
+			<lugar>Camiño da Brea, 60</lugar>
+			<parroquia>Sárdoma</parroquia>
+			<latitud>42.207813</latitud>
+			<longitud>-8.703849</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de A Cova, topónimo que hace referencia a una zona cóncava, que tiene su explicación si se observa desde el Río Eifonso.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="939">
+		<titulo>Fonte da Covela</titulo>
+		<ubicacion>
+			<lugar>Camiño de Rosendo, 16</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.233981</latitud>
+			<longitud>-8.674958</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un lugar cóncavo, es decir, en declive, como se puede observar en el lugar.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="908">
+		<titulo>Fonte do Covelo</titulo>
+		<ubicacion>
+			<lugar>Camiño do Covelo, 6</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.196187</latitud>
+			<longitud>-8.699</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un lugar cóncavo, es decir, en declive, como se puede observar en el lugar.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="436">
+		<titulo>Fonte do Cú da Viña</titulo>
+		<ubicacion>
+			<lugar>Camiño do Cú da Viña, 7</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.19491</latitud>
+			<longitud>-8.702612</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un camino sin salida que atraviesa una zona de viñedos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="382">
+		<titulo>Fonte do Cuco</titulo>
+		<ubicacion>
+			<lugar>Ramal entre la Estrada de Moledo, 109 y 111</lugar>
+			<parroquia>Sárdoma</parroquia>
+			<latitud>42.210685</latitud>
+			<longitud>-8.703838</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar oscuro y sombrío, asociado muchas veces a los cucos en sentido figurado (como de hecho es este lugar, escondido y difícil de explorar de noche)</origen>
+		<lavadero>false</lavadero>
+		<analizada>1990</analizada>
+	</fuente>
+	<fuente id="171">
+		<titulo>Fonte da Cuncha</titulo>
+		<ubicacion>
+			<lugar>Estrada do Monte Alba, al pasar el cruce con la Estrada do Freixo</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.167231</latitud>
+			<longitud>-8.729794</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la concha que decora la fuente.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="380">
+		<titulo>Fonte de Currás</titulo>
+		<ubicacion>
+			<lugar>Rúa dos Picos (detrás de Currás, 16)</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.227849</latitud>
+			<longitud>-8.673002</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de Currás, cuyo origen ha de estar en unos corrales destinados a acoger el ganado.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1990</analizada>
+	</fuente>
+	<fuente id="262">
+		<titulo>Fonte dos Curros</titulo>
+		<ubicacion>
+			<lugar>Rúa de Curros (Parque de Miranaia)</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.228293</latitud>
+			<longitud>-8.69033</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Curros, donde se encuentra, cuyo origen estaría en un conjunto de corrales hechos para acoger el ganado.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="907">
+		<titulo>Fonte do Demo</titulo>
+		<ubicacion>
+			<lugar>Camiño da Barreira, 65</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.192628</latitud>
+			<longitud>-8.692773</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al apodo de un antiguo propietario de los terrenos de la zona.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="17">
+		<titulo>Fonte da Devesa</titulo>
+		<ubicacion>
+			<lugar>Camiño da Devesa, 9</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.200223</latitud>
+			<longitud>-8.682711</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar cerrado sobre sí mismo, generalmente un robledal aunque puede referirse a cualquier tipo de terreno. Esta fuente también se conoce como A Fonte do Cano, referido a un caño que llevaba el agua hacia ella.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="918">
+		<titulo>Fonte dos Dimadeos</titulo>
+		<ubicacion>
+			<lugar>Camiño de Barros, 38</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.197352</latitud>
+			<longitud>-8.710372</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unas tierras conocidas como Dimadeos, debido a que su principal característica eran que estaban gravadas con el diezmo a Dios (seguramente por ser ese su único gravamen). Se conoce como Fonte do Souto do Chan, debido a que se han intercambiado a nivel oficial los topónimos Os Dimadeos y O Souto do Chan, incluida la fuente.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="256">
+		<titulo>Fonte do Eido Vello</titulo>
+		<ubicacion>
+			<lugar>Camiño da Pinguela, 65</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.179896</latitud>
+			<longitud>-8.740253</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un eido (casa y las tierras que la rodean) más viejo que el resto.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="11">
+		<titulo>Fonte de Eifonso</titulo>
+		<ubicacion>
+			<lugar>Cruce Rúa de Eifonso, Camiño do Pelames y Rúa da Costa da Gándara</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.20127</latitud>
+			<longitud>-8.692524</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de Eifonso, cuyo origen parece estar en un molino conocido como Muíño de Afonso, que se acabó convirtiendo en Eifonso y extendiéndose a las tierras de alrededor y al propio río.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="487/284">
+		<titulo>Fonte da Eira Vella / Fonte da Igrexa</titulo>
+		<ubicacion>
+			<lugar>Rúa da Tomada, 10</lugar>
+			<parroquia>Navia</parroquia>
+			<latitud>42.206827</latitud>
+			<longitud>-8.767027</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>En el primer nombre, referido a una eira (piedra destinada a mallar el cereal, que muchas veces se encuentra próximo a las casas. En el segundo caso se refiere a la iglesia de San Paio de Navia, que se encuentra en las inmediaciones. El primer caño lleva el nombre actual desde 2007</origen>
+		<lavadero>false</lavadero>
+		<nota>Si bien ambos caños aparecen con distinto nombre, seguramente (dada la calidad del agua, sobre todo) provengan del mismo nacimiento de agua, por lo que se tratan en una misma entrada.</nota>
+	</fuente>
+	<fuente id="188">
+		<titulo>Fonte da Ermida</titulo>
+		<ubicacion>
+			<lugar>Ramal entre el Camiño da Hermida y la Baixada á Hermida, junto al río</lugar>
+			<parroquia>Oia</parroquia>
+			<latitud>42.187577</latitud>
+			<longitud>-8.79073</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una ermita que se encontraba en el lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="84">
+		<titulo>Fonte de Escales</titulo>
+		<ubicacion>
+			<lugar>Camiño do Cocho da Laxe, fronte 66</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.242934</latitud>
+			<longitud>-8.653467</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Deformación de Fonte das Cales, que seguramente se referiría a unos canales de agua destinados a conducirla a este lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="289">
+		<titulo>Fonte da Espedrigada</titulo>
+		<ubicacion>
+			<lugar>Camiño da Espedrigada, 116</lugar>
+			<parroquia>Coia</parroquia>
+			<latitud>42.213752</latitud>
+			<longitud>-8.73559</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de A Espedrigada, topónimo que hace referencia a un terreno espedregado, es decir, al que se le retiraron las piedras.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1982</analizada>
+	</fuente>
+	<fuente id="86">
+		<titulo>Fonte da Esqueiriña</titulo>
+		<ubicacion>
+			<lugar>Camiño da Esqueiriña, 5</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.241718</latitud>
+			<longitud>-8.650413</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de A Esqueira, cuyo topónimo puede referirse a un lugar donde se iba a buscar yesca (esca) o a una escalera de cualquier tipo que existiría en un muro o en un vallado para acceder a los terrenos situados más arriba</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="460">
+		<titulo>Fonte da Estrada</titulo>
+		<ubicacion>
+			<lugar>Estrada do Portal, 170</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.173773</latitud>
+			<longitud>-8.711158</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la Estrada do Portal, donde se encuentra.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1999</analizada>
+	</fuente>
+	<fuente id="404">
+		<titulo>Fonte da Estrada Vella</titulo>
+		<ubicacion>
+			<lugar>Estrada Vella de Madrid, 100</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.219579</latitud>
+			<longitud>-8.68444</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la Estrada Vella de Madrid, donde se encuentra.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1994</analizada>
+	</fuente>
+	<fuente id="405">
+		<titulo>Fonte da Estrada Vella de Madrid</titulo>
+		<ubicacion>
+			<lugar>Estrada Vella de Madrid, 104</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.220046</latitud>
+			<longitud>-8.683964</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la Estrada Vella de Madrid, donde se encuentra.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1994</analizada>
+	</fuente>
+	<fuente id="175">
+		<titulo>Fonte de Fabás</titulo>
+		<ubicacion>
+			<lugar>Estrada da Garrida, fronte 285</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.174435</latitud>
+			<longitud>-8.703857</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Fabás, topónimo que hace referencia a unas tierras destinadas al cultivo de habas.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="402">
+		<titulo>Fonte de Fabás Lavadoiro</titulo>
+		<ubicacion>
+			<lugar>Camiño de Fabás, fronte 16</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.174836</latitud>
+			<longitud>-8.702883</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lavadero de Fabás, donde se encuentra.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1993</analizada>
+	</fuente>
+	<fuente id="35">
+		<titulo>Fonte da Fame</titulo>
+		<ubicacion>
+			<lugar>Rúa da Cruz, 5</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.201685</latitud>
+			<longitud>-8.684441</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a unos terrenos situados al otro lado del Camiño da Fame que tienen su origen o en la poca productividad de las tierras o por crecer en él la herba da fame</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="400">
+		<titulo>Fonte da Feira</titulo>
+		<ubicacion>
+			<lugar>Camiño do Campo da Feira, 5</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.206446</latitud>
+			<longitud>-8.709235</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a que en este lugar se realizaba la feria del ganado hasta principios del siglo XX.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="926">
+		<titulo>Fonte do Feital</titulo>
+		<ubicacion>
+			<lugar>Rúa da Parrocha (ramal, al pasar el número 24)</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.182547</latitud>
+			<longitud>-8.768237</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una zona donde abundan los helechos, fentos en gallego.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="72">
+		<titulo>Fonte da Felisa</titulo>
+		<ubicacion>
+			<lugar>Camiño dos Pardiñeiros de Abaixo, 19</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.233615</latitud>
+			<longitud>-8.676252</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una antigua propietaria de las tierras. También recibe los nombres de Fonte dos Agostos o Fonte da Balanciña. En el primer caso estamos ante el nombre de un antiguo propietario de los terrenos y en el segundo caso hace referencia al topónimo A Balanciña, cuyo origen está en un avellano de reducido tamaño.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="189">
+		<titulo>Fonte da Fenosa</titulo>
+		<ubicacion>
+			<lugar>Travesía de Vigo, 204</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.244943</latitud>
+			<longitud>-8.694862</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a la antigua Unión Fenosa, por encontrarse delante de la sede de aquella empresa eléctrica que hoy se llama Naturgy.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1971</analizada>
+	</fuente>
+	<fuente id="424">
+		<titulo>Fonte da Ferreira</titulo>
+		<ubicacion>
+			<lugar>Camiño da Ferreira, 29</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.255681</latitud>
+			<longitud>-8.681299</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de A Ferreira, referido seguramente a la presencia de hierro o una herrería en el lugar, o por ser unos terrenos propiedad de uno o varios herreros.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1996</analizada>
+	</fuente>
+	<fuente id="146">
+		<titulo>Fonte de Figueirido</titulo>
+		<ubicacion>
+			<lugar>Camiño de Figueirido, ramal entre los números 83 y 85</lugar>
+			<parroquia>Coia</parroquia>
+			<latitud>42.216039</latitud>
+			<longitud>-8.745002</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un bosque de higueras que ocupaba antaño el lugar, generalmente higueras bravas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="290">
+		<titulo>Fonte de Figueirós</titulo>
+		<ubicacion>
+			<lugar>Camiño de Figueirós, 12</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.189042</latitud>
+			<longitud>-8.701047</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un lugar que antaño estaba poblado por higueras.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="12">
+		<titulo>Fonte de Fionde</titulo>
+		<ubicacion>
+			<lugar>Camiño de Fionde, 4</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.206169</latitud>
+			<longitud>-8.69312</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Fionde, cuyo origen y significado es desconocidos, no teniendo ningún paralelo en la toponimia de Galicia.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="374">
+		<titulo>Fonte do Fixón - Cabral</titulo>
+		<ubicacion>
+			<lugar>Avenida do Tranvía, al pasar el Camiño do Fixón, dirección Peinador, a mano derecha</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.224922</latitud>
+			<longitud>-8.662676</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido probablemente a un foso realizado para evitar el paso de los animales hacia los cultivos.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="185">
+		<titulo>Fonte do Fixón - Zamáns</titulo>
+		<ubicacion>
+			<lugar>Estrada da Igrexa, 5</lugar>
+			<parroquia>Zamáns</parroquia>
+			<latitud>42.156746</latitud>
+			<longitud>-8.686354</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido probablemente a un foso realizado para evitar el paso de los animales hacia los cultivos.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="280">
+		<titulo>Fonte do Folón</titulo>
+		<ubicacion>
+			<lugar>Rúa do Folón, 11</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.225461</latitud>
+			<longitud>-8.680083</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Folón, que tiene su origen en un molino de agua que servía para golpear los paños y adecuarlos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1987</analizada>
+	</fuente>
+	<fuente id="367">
+		<titulo>Fonte da Fontaíña</titulo>
+		<ubicacion>
+			<lugar>Rúa da Fontaíña, 51</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.224077</latitud>
+			<longitud>-8.660735</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un lugar donde existían una fuente de poco caudal.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="363">
+		<titulo>Fonte da Fontán</titulo>
+		<ubicacion>
+			<lugar>Camiño da Fontán, 49</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.165876</latitud>
+			<longitud>-8.812393</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Fontán, cuyo origen está en un pequeño curso de agua originario de una fuente.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1987</analizada>
+	</fuente>
+	<fuente id="273">
+		<titulo>Fonte das Fontáns - Lavadores</titulo>
+		<ubicacion>
+			<lugar>Rúa das Fontáns, 36</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.23073</latitud>
+			<longitud>-8.697172</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Fontáns, así denominado por la abundancia de fuentes (de las cuales se conserva ésta y otra ubicada más abajo)</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="206">
+		<titulo>Fonte das Fontáns - Teis</titulo>
+		<ubicacion>
+			<lugar>Rúa do Doutor Corbal, 207</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.258357</latitud>
+			<longitud>-8.700135</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Fontáns, así denominado por la abundancia de fuentes</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="384">
+		<titulo>Fonte da Fonte Santa - Freixeiro</titulo>
+		<ubicacion>
+			<lugar>Baixada á Ponte Nova, 77</lugar>
+			<parroquia>Freixeiro</parroquia>
+			<latitud>42.216919</latitud>
+			<longitud>-8.7218</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una fuente a la que se le atribuían propiedades curativas, no está claro si es esta fuente o la Fonte de Freixeiro, un poco más arriba, pero lo cierto es que a día de hoy ninguna de las fuentes tiene tales propiedades.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1991</analizada>
+	</fuente>
+	<fuente id="296">
+		<titulo>Fonte da Fonte Santa - Matamá</titulo>
+		<ubicacion>
+			<lugar>Estrada do Zondal - A Fonte Santa</lugar>
+			<parroquia>Comesaña</parroquia>
+			<latitud>42.19394</latitud>
+			<longitud>-8.746447</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una fuente a la que se le atribuían propiedades curativas o incluso mágicas, aunque a día de hoy no se recuerdan.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="88">
+		<titulo>Fonte da Fontiña - Candeán</titulo>
+		<ubicacion>
+			<lugar>Ramal del Camiño do Cabo</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.240755</latitud>
+			<longitud>-8.643072</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una fuente de reducido caudal, que seguramente fuera ésta.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="445">
+		<titulo>Fonte da Fontiña - Coruxo</titulo>
+		<ubicacion>
+			<lugar>Sendero GR-53</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.181348</latitud>
+			<longitud>-8.780456</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Sin calificar</calidad>
+		<origen>Referido a una fuente de reducido caudal, que seguramente fuera ésta.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="434">
+		<titulo>Fonte da Fontiña - Saiáns</titulo>
+		<ubicacion>
+			<lugar>Estrada de Camposancos, 467</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.170379</latitud>
+			<longitud>-8.800204</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una fuente de reducido caudal, que seguramente fuera ésta.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="67">
+		<titulo>Fonte das Fontiñas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Fontiñas de Abaixo, 9</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.219656</latitud>
+			<longitud>-8.673489</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una zona rica en agua donde abundaban las fuentes.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="935">
+		<titulo>Fonte do Foxo</titulo>
+		<ubicacion>
+			<lugar>Estrada do Foxo, fronte 31</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.179434</latitud>
+			<longitud>-8.715784</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un foso abierto en el terreno para impedir el paso de los animales a los terrenos cultivados.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="401">
+		<titulo>Fonte dos Freires</titulo>
+		<ubicacion>
+			<lugar>Camiño dos Freires, 23</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.205507</latitud>
+			<longitud>-8.678066</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Freires, donde se encuentra, posiblemente su origen esté en unas tierras propiedad de la iglesia o de un convento.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1993</analizada>
+	</fuente>
+	<fuente id="411">
+		<titulo>Fonte de Freixeiro</titulo>
+		<ubicacion>
+			<lugar>Baixada á Ponte Nova, 81</lugar>
+			<parroquia>Freixeiro</parroquia>
+			<latitud>42.216596</latitud>
+			<longitud>-8.721847</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la parroquia de Freixeiro, donde se encuentra esta fuente, en su límite con Castrelos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1995</analizada>
+	</fuente>
+	<fuente id="425">
+		<titulo>Fonte de Friales</titulo>
+		<ubicacion>
+			<lugar>Camiño do Campaneiro</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.182376</latitud>
+			<longitud>-8.689739</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la existencia de feos en el lugar, se trata de una especie de junco. Antaño se conocía oficialmente como Fonte de Japón</origen>
+		<lavadero>false</lavadero>
+		<analizada>1996</analizada>
+	</fuente>
+	<fuente id="133">
+		<titulo>Fonte da Gandariña</titulo>
+		<ubicacion>
+			<lugar>Avenida do Alcalde de Lavadores, 157</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.214653</latitud>
+			<longitud>-8.696796</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unas tierras malas, húmedas y arbustivas, generalmente al lado de un río, como era toda esta zona antes de la llegada de las naves industriales.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="227">
+		<titulo>Fonte de Gandarón</titulo>
+		<ubicacion>
+			<lugar>Camiño da Fonte, 65</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.219659</latitud>
+			<longitud>-8.701454</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unas tierras malas, húmedas y arbustivas, generalmente al lado de un río, como era toda esta zona antes de la llegada de las naves industriales.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="186">
+		<titulo>Fonte de Garcías</titulo>
+		<ubicacion>
+			<lugar>Baixada á Praia, 10</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.166887</latitud>
+			<longitud>-8.802305</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un antiguo propietario de los terrenos, concretamente a García Sarmiento de Soutomaior (1528?-1579), hijo segundo del señor de Sobroso y Salvaterra, y cuyo heredero, Diego Sarmiento de Acuña, fue el primer conde de Gondomar. Antaño aparece como Fonte de Sayanes Lavadero</origen>
+		<lavadero>false</lavadero>
+		<analizada>1978</analizada>
+	</fuente>
+	<fuente id="310">
+		<titulo>Fonte do Garexo</titulo>
+		<ubicacion>
+			<lugar>Estrada de Camposancos, 294</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.18728</latitud>
+			<longitud>-8.77785</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Probablemente su origen esté en el alto caudal que antaño tenía esta fuente, que hacía que garexase de agua, es decir, que rezumara de agua.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="158">
+		<titulo>Fonte da Garrida</titulo>
+		<ubicacion>
+			<lugar>Camiño dos Nancales, 7</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.167077</latitud>
+			<longitud>-8.720131</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Está referido al lugar de A Garrida, topónimo que hace referencia a una zona alta y rocosa en la que abunda el carrasco.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1976</analizada>
+	</fuente>
+	<fuente id="236">
+		<titulo>Fonte dos Gatos</titulo>
+		<ubicacion>
+			<lugar>Rúa da Santeira, 53</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.232447</latitud>
+			<longitud>-8.685968</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Probablemente su origen esté en que a esta fuente iban los gatos a beber, aunque puede ser un cambio con intención jocosa (Fonte do Can -` Fonte do Gato) siendo can una variante de canle, canal.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1963</analizada>
+	</fuente>
+	<fuente id="76">
+		<titulo>Fonte da Goleta</titulo>
+		<ubicacion>
+			<lugar>Rúa da Goleta, 15</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.243246</latitud>
+			<longitud>-8.663298</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de A Goleta, cuyo origen parece estar en un estrechamiento de las vertientes que dan al Río de San Cristovo.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="61">
+		<titulo>Fonte de Gondarisco</titulo>
+		<ubicacion>
+			<lugar>Camiño dos Piñeirais, ramal entre el 4 y el 8</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.236705</latitud>
+			<longitud>-8.636545</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Gondarisco, estamos ante un antropónimo medieval de origen germánico, es decir, un Villam Gundarisci, las tierras de Gundariscus en la Edad Media.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="246">
+		<titulo>Fonte de Gonderán</titulo>
+		<ubicacion>
+			<lugar>Camiño de Gonderán, detrás de Rúa da Fonte, 25</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.239444</latitud>
+			<longitud>-8.697226</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Gonderán, estamos ante un antropónimo medieval de origen germánico, es decir, un Villam Gunderani, las tierras de Gunderanus en la Edad Media.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="358">
+		<titulo>Fonte de Gondufe</titulo>
+		<ubicacion>
+			<lugar>Baixada á Praia, 133</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.17222</latitud>
+			<longitud>-8.809068</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Gondufe, estamos ante un antropónimo medieval de origen germánico, es decir, un Villam Gundulfi, las tierras de Gundulfus en la Edad Media.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1987</analizada>
+	</fuente>
+	<fuente id="187">
+		<titulo>Fonte de Gontade</titulo>
+		<ubicacion>
+			<lugar>Estrada da Igrexa a Roteas, ramal que sale del 216</lugar>
+			<parroquia>Oia</parroquia>
+			<latitud>42.184003</latitud>
+			<longitud>-8.788734</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Gontade, estamos ante un antropónimo medieval de origen germánico, es decir, un Villam Gontadi, las tierras de Guntadus en la Edad Media.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="197">
+		<titulo>Fonte do Gorgollón</titulo>
+		<ubicacion>
+			<lugar>Estrada da Madroa, 10</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.252183</latitud>
+			<longitud>-8.682041</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un nacimiento de agua, que se aprovechó para construir la fuente actual.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="39">
+		<titulo>Fonte do Gorxal</titulo>
+		<ubicacion>
+			<lugar>Rúa do Gorxal, 23</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.212653</latitud>
+			<longitud>-8.668958</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de O Gorxal, probablemente tiene su origen en una depresión que el terreno hace en este lugar, como una garganta. Hasta 1999 se conocía oficialmente como Fonte do Grupo Sindical.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="205">
+		<titulo>Fonte da Grande</titulo>
+		<ubicacion>
+			<lugar>Rúa da Oliveira, 69</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.255979</latitud>
+			<longitud>-8.6958</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido seguramente a unas tierras de mayor tamaño que las del entorno, y que esa fuera su principal característica.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="440">
+		<titulo>Fonte do Grifo</titulo>
+		<ubicacion>
+			<lugar>Sendero de Galleiro a Baladiñas</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.194717</latitud>
+			<longitud>-8.676187</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al grifo de donde sale el agua.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="211">
+		<titulo>Fonte das Grilas</titulo>
+		<ubicacion>
+			<lugar>Camiño da Fonte (en un ramal entre el 17 y el 19)</lugar>
+			<parroquia>Alcabre</parroquia>
+			<latitud>42.216102</latitud>
+			<longitud>-8.764166</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Casi seguro tiene su origen en el sonido que emite el agua al caer, que sonaría como los grillos en los campos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1976</analizada>
+	</fuente>
+	<fuente id="395">
+		<titulo>Fonte da Igrexa - Cabral</titulo>
+		<ubicacion>
+			<lugar>Avenida de Santa Mariña, 113</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.222017</latitud>
+			<longitud>-8.657463</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la iglesia de Cabral, que se encuentra cerca.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="217">
+		<titulo>Fonte da Igrexa - Teis</titulo>
+		<ubicacion>
+			<lugar>Camiño Real, 21</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.257024</latitud>
+			<longitud>-8.687176</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la iglesia de Teis, que se encuentra en las inmediaciones.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1979</analizada>
+	</fuente>
+	<fuente id="179">
+		<titulo>Fonte da Igrexa - A Cruz</titulo>
+		<ubicacion>
+			<lugar>Subida ós Padróns, 24</lugar>
+			<parroquia>Zamáns</parroquia>
+			<latitud>42.153213</latitud>
+			<longitud>-8.686438</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al camino que hay entre la iglesia de Zamáns y una cruz que existe siguiendo la Subida ós Padróns</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="399">
+		<titulo>Fonte da Incineradora</titulo>
+		<ubicacion>
+			<lugar>Estrada do Zondal</lugar>
+			<parroquia>Comesaña</parroquia>
+			<latitud>42.188385</latitud>
+			<longitud>-8.748944</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la incineradora que hasta los años 80 operaba en las proximidades de este lugar, donde a día de hoy se conserva el edificio en ruinas y unos campos sin árboles.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="4">
+		<titulo>Fonte dos Infernos</titulo>
+		<ubicacion>
+			<lugar>Estrada da Venda, entrada al Hospital Álvaro Cunqueiro</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.186576</latitud>
+			<longitud>-8.711824</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar situado por debajo de otro, que es el significado de inferno.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="203">
+		<titulo>Fonte da Jacoteira</titulo>
+		<ubicacion>
+			<lugar>Camiño Real, cruce con Camiño do Caxide</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.254416</latitud>
+			<longitud>-8.690683</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido posiblemente a una zona donde crecían cagotes, que son los perales silvestres.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="112">
+		<titulo>Fonte da Lagarella</titulo>
+		<ubicacion>
+			<lugar>Camiño do Outeiro, 24</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.195741</latitud>
+			<longitud>-8.731919</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido seguramente a una bodega donde se hacía el vino, que es el significado de lagar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="271">
+		<titulo>Fonte do Lago - Bembrive</titulo>
+		<ubicacion>
+			<lugar>Final del Camiño da Fonte do Lago</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.208684</latitud>
+			<longitud>-8.692921</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unos terrenos húmedos, con tendencia a estar encharcados, sobre todo en épocas de lluvia. Es conocida también como A Fonte da Chadiza, en referencia al apodo de un antiguo propietario de los terrenos, de hecho llevó ese nombre hasta 1994.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="174">
+		<titulo>Fonte do Lago - Valadares</titulo>
+		<ubicacion>
+			<lugar>Estrada do Portal, 301</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.17333</latitud>
+			<longitud>-8.708498</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a unos terrenos húmedos, con tendencia a estar encharcados, sobre todo en épocas de lluvia.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="249">
+		<titulo>Fonte da Lagoa</titulo>
+		<ubicacion>
+			<lugar>Rúa da Lagoa, 56</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.200119</latitud>
+			<longitud>-8.700536</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a unos terrenos húmedos, con tendencia a estar encharcados, sobre todo en épocas de lluvia.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="379">
+		<titulo>Fonte dos Lagumeiros</titulo>
+		<ubicacion>
+			<lugar>Estrada do Porto, cruce con el Camiño de Goaldino</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.177698</latitud>
+			<longitud>-8.699898</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a unos terrenos húmedos donde nace el agua.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="265">
+		<titulo>Fonte da Lamballa</titulo>
+		<ubicacion>
+			<lugar>Camiño da Lamballa, 21</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.220577</latitud>
+			<longitud>-8.685937</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido posiblemente al apodo de un antiguo propietario de las tierras.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="250">
+		<titulo>Fonte da Lameira</titulo>
+		<ubicacion>
+			<lugar>Rúa do Balde, 4</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.201948</latitud>
+			<longitud>-8.701584</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unos terrenos húmedos, con tendencia a estar cubiertos de barro.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="285">
+		<titulo>Fonte dos Lameiros</titulo>
+		<ubicacion>
+			<lugar>Parque Forestal de Oia</lugar>
+			<parroquia>Oia</parroquia>
+			<latitud>42.172272</latitud>
+			<longitud>-8.795213</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a unos terrenos húmedos, con tendencia a estar cubiertos de barro.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="66">
+		<titulo>Fonte da Laranxeira</titulo>
+		<ubicacion>
+			<lugar>Camiño da Coruxeira, 16</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.230638</latitud>
+			<longitud>-8.658608</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unos terrenos donde existía un naranjo o un conjunto de ellos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1977</analizada>
+	</fuente>
+	<fuente id="905">
+		<titulo>Fonte de Larín</titulo>
+		<ubicacion>
+			<lugar>Camiño da Batalla, fronte 11</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.194175</latitud>
+			<longitud>-8.705844</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido posiblemente a un apodo de un antiguo propietario de los terrenos.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="70">
+		<titulo>Fonte do Lavadoiro de Barreiro</titulo>
+		<ubicacion>
+			<lugar>Rúa de Barreiro, 10</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.228538</latitud>
+			<longitud>-8.676752</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Barreiro, por ser un lugar con tendencia a estar húmedo.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1973</analizada>
+		<nota>Antaño se conocía como Fonte da Fonte Escura, pero esa fuente (que da nombre a un barrio de Candeán) ya no existe.</nota>
+	</fuente>
+	<fuente id="225">
+		<titulo>Fonte do Lavadoiro de Fontáns</titulo>
+		<ubicacion>
+			<lugar>Rúa das Fontáns, 93</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.230632</latitud>
+			<longitud>-8.695992</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Fontáns, así denominado por la abundancia de fuentes (de las cuales se conserva ésta y otra ubicada más arriba)</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="410">
+		<titulo>Fonte do Lavadoiro da Fonte Escura</titulo>
+		<ubicacion>
+			<lugar>Camiño de Trinitario Otero, 17</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.229707</latitud>
+			<longitud>-8.672786</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Fonte Escura, así conocido por una fuente con una mina de agua de acceso difícil y sombrío.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1995</analizada>
+		<nota>Era conocida como Fonte da Cuarta Travesía de Barreiro, debido que hasta 2003 así se llamaba la calle donde se encuentra.</nota>
+	</fuente>
+	<fuente id="486">
+		<titulo>Fonte do Lavadoiro da Valada</titulo>
+		<ubicacion>
+			<lugar>Camiño da Valada, 63</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.172025</latitud>
+			<longitud>-8.71887</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lavadero de A Valada, del que toma el nombre.</origen>
+		<lavadero>true</lavadero>
+		<analizada>2008</analizada>
+	</fuente>
+	<fuente id="312">
+		<titulo>Fonte do Lavadoiro das Roteas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Roteas de Abaixo, 35</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.237269</latitud>
+			<longitud>-8.6781</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de As Roteas, así conocido por ser una zona de monte quemada para ser utilizada para cultivos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1985</analizada>
+	</fuente>
+	<fuente id="372">
+		<titulo>Fonte do Lavadoiro da Silveira</titulo>
+		<ubicacion>
+			<lugar>Estrada do Regueiro, 67</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.176885</latitud>
+			<longitud>-8.728015</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al una zona cubierta de silvas, zarzas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1989</analizada>
+	</fuente>
+	<fuente id="933">
+		<titulo>Fonte do Lavadoiro de Marcosende</titulo>
+		<ubicacion>
+			<lugar>Final del Camiño do Sanguiñal</lugar>
+			<parroquia>Zamáns</parroquia>
+			<latitud>42.16425</latitud>
+			<longitud>-8.691374</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Marcosende, donde se encuentra esta fuente. Se llama así para diferenciarla de la Fonte de Marcosende.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="31">
+		<titulo>Fonte do Lavadoiro de Recaré</titulo>
+		<ubicacion>
+			<lugar>Rúa de Recaré, 18</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.21153</latitud>
+			<longitud>-8.687474</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a que es una fuente con lavadero en Recaré, para diferenciarla de la Fonte de Recaré. El lavadero se conoce como Lavadouro do Inferno, en referencia a una antigua fuente conocida como A Fonte do Inferno, que no es la misma que se encuentra ahora (estaba unos metros más hacia el cruce de Viña Grande con Mouteira). El topónimo hace referencia a unas tierras situadas por debajo de otras, hecho que se comprueba perfectamente porque se encuentra por debajo de las tierras conocidas como A Parrocha.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="33">
+		<titulo>Fonte do Lavadoiro de Segade</titulo>
+		<ubicacion>
+			<lugar>Rúa de Segade, 94</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.20964</latitud>
+			<longitud>-8.690472</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Segade, que tiene su origen en un antropónimo medieval de posesor, estaríamos ante un Villam Segati, es decir, las tierras de Segatus.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1977</analizada>
+	</fuente>
+	<fuente id="443">
+		<titulo>Fonte do Lavadoiro-Xunqueira</titulo>
+		<ubicacion>
+			<lugar>Camiño dos Lagos, 2</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.236406</latitud>
+			<longitud>-8.666244</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un terreno húmedo donde crecían los juncos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="182">
+		<titulo>Fonte da Lavandeira</titulo>
+		<ubicacion>
+			<lugar>Camiño da Lavandeira, 26</lugar>
+			<parroquia>Oia</parroquia>
+			<latitud>42.188226</latitud>
+			<longitud>-8.795687</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar donde anidarían unas aves conocidas como lavandeiras, que en castellano se conocen como aguzanieves o motacilla.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="212">
+		<titulo>Fonte da Laxe - Comesaña</titulo>
+		<ubicacion>
+			<lugar>Camiño do Rial, 99</lugar>
+			<parroquia>Comesaña</parroquia>
+			<latitud>42.191758</latitud>
+			<longitud>-8.758054</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra, A Laxe, así llamado por ubicarse en una zona sobre piedras lisas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1978</analizada>
+		<nota>En la rotulación aparece como Fonte de Alas, como una mala interpretación de Fonte de A Las, que es como se dice en el habla. Ahora aparece nombrada por su nombre correcto.</nota>
+	</fuente>
+	<fuente id="126">
+		<titulo>Fonte da Laxe - Sárdoma</titulo>
+		<ubicacion>
+			<lugar>Subida ó Monte da Serra (cruce ramal do Gorgoso)</lugar>
+			<parroquia>Sárdoma</parroquia>
+			<latitud>42.214864</latitud>
+			<longitud>-8.715327</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar donde se encuentra, A Laxe, así llamado por ubicarse en una zona sobre piedras lisas, sobre la que se construyó este barrio.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="34">
+		<titulo>Fonte da Leiteira</titulo>
+		<ubicacion>
+			<lugar>Estrada de Bembrive, 78</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.210392</latitud>
+			<longitud>-8.696168</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Puede referirse al apodo de un antiguo propietario de las tierras donde se encuentra o una fuente a la que acudieran las lecheras por alguna razón.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="493">
+		<titulo>Fonte da Levada</titulo>
+		<ubicacion>
+			<lugar>Estrada Vella de Madrid, 53</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.217524</latitud>
+			<longitud>-8.693183</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una presa que existía en el lugar destinada a llevar el agua de un río a las fincas para su riego.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="204">
+		<titulo>Fonte do Local</titulo>
+		<ubicacion>
+			<lugar>Avenida de Galicia, parque del Local Social</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.251238</latitud>
+			<longitud>-8.692654</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al antiguo Local Social de Teis, que hasta 1993 se encontraba en este lugar, cuando se trasladaron a las actuales instalaciones, en la Avenida de Buenos Aires.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="292">
+		<titulo>Fonte do Lugar da Fonte</titulo>
+		<ubicacion>
+			<lugar>Estrada de Fragoselo, 264</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.180814</latitud>
+			<longitud>-8.764859</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al propio lugar donde se encuentra la fuente.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1982</analizada>
+	</fuente>
+	<fuente id="97/98">
+		<titulo>Fonte do Luns</titulo>
+		<ubicacion>
+			<lugar>Rúa da Parada, bajo Rúa dos Canteiros</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.201212</latitud>
+			<longitud>-8.735976</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido seguramente a que se fuera a recoger agua el lunes a esta fuente, quizás como un sistema de rego aplicado a las fuentes, pero no se puede decir con certeza.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="80">
+		<titulo>Fonte das Maceiras</titulo>
+		<ubicacion>
+			<lugar>Camiño das Maceiras, 2</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.235758</latitud>
+			<longitud>-8.671341</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un bosque de manzanos que existía antaño en este lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="64">
+		<titulo>Fonte da Mancoña</titulo>
+		<ubicacion>
+			<lugar>Camiño da Mancoña, 7</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.237571</latitud>
+			<longitud>-8.642201</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de A Mancoña, posiblemente estamos ante un topónimo prerromano, de significado oscuro.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="320">
+		<titulo>Fonte de Marcosende</titulo>
+		<ubicacion>
+			<lugar>Estrada de Marcosende, 89</lugar>
+			<parroquia>Zamáns</parroquia>
+			<latitud>42.164474</latitud>
+			<longitud>-8.692623</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de Marcosende, estamos ante un antropónimo medieval de origen germánico, es decir, ante un Villam Marcosendi, es decir, las tierras de Marcosendus en la Edad Media.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1985</analizada>
+	</fuente>
+	<fuente id="932">
+		<titulo>Fonte das Medoñas</titulo>
+		<ubicacion>
+			<lugar>Camino entre la Estrada de Camposancos y la carretera que sube al parque forestal</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.171333</latitud>
+			<longitud>-8.799238</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una meda, un montículo donde en la prehistoria se hacían los enterramientos.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="313">
+		<titulo>Fonte de Melcas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Laxes, 16</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.188213</latitud>
+			<longitud>-8.779441</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar donde se encuentra. El topónimo Melcas hace referencia a la abundancia de mielgas, una planta parecida al forraje.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1986</analizada>
+	</fuente>
+	<fuente id="392">
+		<titulo>Fonte do Merendeiro de Fragoselo</titulo>
+		<ubicacion>
+			<lugar>Parque Forestal de Coruxo</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.174662</latitud>
+			<longitud>-8.780431</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al merendero del Parque Forestal de Coruxo.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="459">
+		<titulo>Fonte do Merendeiro do Vixiador</titulo>
+		<ubicacion>
+			<lugar>Parque do Monte Vixiador</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.252007</latitud>
+			<longitud>-8.650068</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al merendero del Monte Vixiador. Hay un buen puñado de fuentes, pero parece que solamente ésta proviene de un manantial.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1999</analizada>
+	</fuente>
+	<fuente id="109">
+		<titulo>Fonte dos Mestres Goldar</titulo>
+		<ubicacion>
+			<lugar>Rúa dos Mestres Goldar, 35</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.207373</latitud>
+			<longitud>-8.726244</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a la Rúa dos Mestres Goldar, donde se encuentra, está dedicada a dos maestros que enseñaron en la escuela unitaria de Castrelos, y que fueron muy queridos por los vecinos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="233">
+		<titulo>Fonte de Mideiros</titulo>
+		<ubicacion>
+			<lugar>Rúa da Anduriña, 35</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.225929</latitud>
+			<longitud>-8.702944</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar donde se encuentra. El topónimo Medeiros se refiere a varios elementos de forma cónica, probablemente elevaciones en el terreno. Antaño se llamaba oficialmente como Fonte da Sobreira-Calvario.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+		<nota>La placa pone Fonte de Migueiros y el nombre oficial es el del título, pero debería ser Fonte de Medeiros, que es la forma correcta del topónimo.</nota>
+	</fuente>
+	<fuente id="934">
+		<titulo>Fonte das Millaradas</titulo>
+		<ubicacion>
+			<lugar>Baixada á Moo, 73</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.190761</latitud>
+			<longitud>-8.738361</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a unas tierras donde se ponía a cultivar cereal, millo en gallego. Es un nombre asignado por los petroglifos de las proximidades.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="19">
+		<titulo>Fonte da Mina - Bembrive</titulo>
+		<ubicacion>
+			<lugar>Camiño da Mandada, 6</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.198923</latitud>
+			<longitud>-8.682202</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una construcción destinada a conducir el agua subterránea hacia el exterior, de donde viene el agua de esta fuente.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="41">
+		<titulo>Fonte da Mina - Cabral</titulo>
+		<ubicacion>
+			<lugar>Avenida da Ponte, 54</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.218008</latitud>
+			<longitud>-8.669574</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una construcción destinada a conducir el agua subterránea hacia el exterior, de donde viene el agua de esta fuente. Hasta 1999 se conocía como Fonte da Ponte.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1974</analizada>
+	</fuente>
+	<fuente id="494">
+		<titulo>Fonte das Molares</titulo>
+		<ubicacion>
+			<lugar>Avenida do Tranvía, 111</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.226474</latitud>
+			<longitud>-8.655296</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Molares, así llamado por ser un lugar pedregoso, lleno de moas.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1989</analizada>
+	</fuente>
+	<fuente id="38">
+		<titulo>Fonte do Monte</titulo>
+		<ubicacion>
+			<lugar>Camiño do Monte, ramal</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.216849</latitud>
+			<longitud>-8.654875</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a una zona de monte que ocupaba todo este lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="453">
+		<titulo>Fonte da Morena</titulo>
+		<ubicacion>
+			<lugar>Camiño do Xestal, 16</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.197087</latitud>
+			<longitud>-8.69974</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido probablemente al apodo de un antiguo propietario de los terrenos.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="223">
+		<titulo>Fonte do Mosteiro</titulo>
+		<ubicacion>
+			<lugar>Rúa do Río, 5</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.203261</latitud>
+			<longitud>-8.685915</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar de O Mosteiro, núcleo central de Bembrive y que probablemente su origen esté en que eran tierras propiedad del monasterio de Santa María de Melón.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1979</analizada>
+	</fuente>
+	<fuente id="448">
+		<titulo>Fonte do Moucho</titulo>
+		<ubicacion>
+			<lugar>Rúa da Becerreira (Parque Forestal de Becerreira)</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.215047</latitud>
+			<longitud>-8.6545</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un lugar de difícil acceso y oscuro, que son los lugares asociados a los mouchos (buhos).</origen>
+		<lavadero>false</lavadero>
+		<analizada>1998</analizada>
+	</fuente>
+	<fuente id="177">
+		<titulo>Fonte das Mouteiras</titulo>
+		<ubicacion>
+			<lugar>Estrada da Garrida, fronte 229</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.17266</latitud>
+			<longitud>-8.706318</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un lugar ligeramente elevado, normalmente se refiere a zonas con una vegetación mal elevada que la del entorno.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="435">
+		<titulo>Fonte dos Muíños de Saiáns</titulo>
+		<ubicacion>
+			<lugar>Parque dos Muíños de Saiáns</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.16739</latitud>
+			<longitud>-8.797121</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a los molinos que existen en el entorno del lugar, y que se aprovechan del Rego da Cal do Outeiro</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="928">
+		<titulo>Fonte do Museo Liste</titulo>
+		<ubicacion>
+			<lugar>Parque do Museo Liste</lugar>
+			<parroquia>Freixeiro</parroquia>
+			<latitud>42.216898</latitud>
+			<longitud>-8.730215</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al Museo Liste, en cuyo parque se encuentra la fuente.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="215">
+		<titulo>Fonte de Naia</titulo>
+		<ubicacion>
+			<lugar>Ramal Rúa de Naia, 242</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.21826</latitud>
+			<longitud>-8.684461</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Naia, topónimo prerromano referido al valle que describe el lugar.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="49">
+		<titulo>Fonte do Narxo</titulo>
+		<ubicacion>
+			<lugar>Camiño do Narxo, 8</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.219798</latitud>
+			<longitud>-8.660084</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>El topónimo puede tener su origen en naranxo, que puede referirse a un naranjo, o a un lugar anaranjado, por ejemplo, cuando atardece y le da el sol.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="390">
+		<titulo>Fonte da Negreira</titulo>
+		<ubicacion>
+			<lugar>Camiño de Riomao, 9</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.193527</latitud>
+			<longitud>-8.692846</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Media</calidad>
+		<origen>Probablemente tiene su origen en el apellido de un antiguo propietario.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1991</analizada>
+	</fuente>
+	<fuente id="442">
+		<titulo>Fonte de Norberto</titulo>
+		<ubicacion>
+			<lugar>Camiño de Norberto, 15</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.191284</latitud>
+			<longitud>-8.713096</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al nombre de un antiguo propietario de los terrenos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="5">
+		<titulo>Fonte Nova</titulo>
+		<ubicacion>
+			<lugar>Estrada do Porto, 56</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.188263</latitud>
+			<longitud>-8.70314</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a ser una fuente más reciente que las del entorno. Se conoce también como Fonte do Franco, en referencia al apellido de un antiguo propietario de los terrenos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1977</analizada>
+	</fuente>
+	<fuente id="419">
+		<titulo>Fonte Nova da Grileira</titulo>
+		<ubicacion>
+			<lugar>Rúa de Molais, 116</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.22378</latitud>
+			<longitud>-8.653395</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a ser la fuente más reciente de Grileira, topónimo referido a una zona donde cantarían los grillos (e incluso puede referirse al ruido del agua de la fuente al caer, que sonaría como un grillo)</origen>
+		<lavadero>false</lavadero>
+		<analizada>1996</analizada>
+	</fuente>
+	<fuente id="449">
+		<titulo>Fonte do Novello</titulo>
+		<ubicacion>
+			<lugar>Parque de Parada</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.236384</latitud>
+			<longitud>-8.661346</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un lugar nuevo, es decir, un campo novelo, eido novelo...</origen>
+		<lavadero>false</lavadero>
+		<analizada>1998</analizada>
+	</fuente>
+	<fuente id="36">
+		<titulo>Fonte de Novelos</titulo>
+		<ubicacion>
+			<lugar>Camiño de Novelos, 48</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.204677</latitud>
+			<longitud>-8.682086</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Novelos, que tiene su origen en algo nuevo (Campos Novelos, Eidos Novelos...)</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="936">
+		<titulo>Fonte de Ocampo</titulo>
+		<ubicacion>
+			<lugar>Camiño da Valada, 63</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.172146</latitud>
+			<longitud>-8.718813</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido seguramente al apellido de un antiguo propietario de los terrenos.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="183">
+		<titulo>Fonte de Oia Lavadoiro</titulo>
+		<ubicacion>
+			<lugar>Camiño de Oia, 5</lugar>
+			<parroquia>Oia</parroquia>
+			<latitud>42.188763</latitud>
+			<longitud>-8.801898</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Oia, topónimo de origen prerromano que hace referencia a las aguas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="138">
+		<titulo>Fonte da Orxa</titulo>
+		<ubicacion>
+			<lugar>Baixada á Orxa, fronte 29</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.235691</latitud>
+			<longitud>-8.697169</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de A Orxa, topónimo que hacía referencia a unos campos sin cultivar o a barbecho. Esta fuente se conoce como A Fonte da Leiteira, referido seguramente a unas tierras donde crecía la herba leiteira.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1986</analizada>
+	</fuente>
+	<fuente id="252">
+		<titulo>Fonte do Ouro</titulo>
+		<ubicacion>
+			<lugar>Estrada de San Xoan, fronte 268</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.180629</latitud>
+			<longitud>-8.743242</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Posiblemente referido a que el color de las aguas tuviera un tinte dorado, por la composición del agua o porque el caño estuviera oxidado. Antaño se conocía como Fonte do Lavadoiro do Galiñeiro.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="136">
+		<titulo>Fonte do Outeiro - Casás</titulo>
+		<ubicacion>
+			<lugar>Camiño do Outeiro, 23</lugar>
+			<parroquia>Comesaña</parroquia>
+			<latitud>42.192027</latitud>
+			<longitud>-8.75437</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al Outeiro de Casás, un alto en el terreno que existe en el lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="230">
+		<titulo>Fonte do Outeiro - Matamá</titulo>
+		<ubicacion>
+			<lugar>Camiño do Outeiro, entre 16 y 18</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.196506</latitud>
+			<longitud>-8.732351</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al un montículo o elevación en el terreno.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="194">
+		<titulo>Fonte de Padín</titulo>
+		<ubicacion>
+			<lugar>Camiño de Padín, 27</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.256841</latitud>
+			<longitud>-8.676084</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Padín, cuyo topónimo se refiere a un antropónimo medieval de posesor, es decir, un Villam Padini, las tierras de Padinus en la Edad Media.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1971</analizada>
+	</fuente>
+	<fuente id="69">
+		<titulo>Fonte da Parada</titulo>
+		<ubicacion>
+			<lugar>Rúa da Parada, 46</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.233682</latitud>
+			<longitud>-8.662618</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al barrio de Parada, así conocido por estar ubicado en una zona relativamente llana.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="196">
+		<titulo>Fonte da Paradela</titulo>
+		<ubicacion>
+			<lugar>Rúa da Paradela, 58</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.250773</latitud>
+			<longitud>-8.682982</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Paradela, así conocido por estar ubicado en una zona relativamente llana.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="272">
+		<titulo>Fonte do Paraixal de Abaixo</titulo>
+		<ubicacion>
+			<lugar>Rúa do Xuncal, 81</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.249552</latitud>
+			<longitud>-8.688451</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al barrio de Paraixal (o Paraisal), posiblemente reciba ese nombre debido a que se considerara paradisíaco por alguna razón.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="224">
+		<titulo>Fonte de Pardavila</titulo>
+		<ubicacion>
+			<lugar>Camiño de Tomás Elvira, 26</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.231865</latitud>
+			<longitud>-8.693759</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Pardavila, cuyo origen estaría en Pedra da Vila, es decir, una piedra situada en una vila (casa de campo y las fincas que la rodean).</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="457">
+		<titulo>Fonte do Parque Forestal - Beade</titulo>
+		<ubicacion>
+			<lugar>Parque Forestal de Beade, junto al restaurante</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.176724</latitud>
+			<longitud>-8.686304</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al Parque Forestal de Beade, donde se encuentra</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="477">
+		<titulo>Fonte do Parque Forestal - Saiáns</titulo>
+		<ubicacion>
+			<lugar>Parque Forestal de Saiáns</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.169254</latitud>
+			<longitud>-8.793236</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al Parque Forestal de Saiáns, donde se encuentra</origen>
+		<lavadero>false</lavadero>
+		<analizada>1986</analizada>
+	</fuente>
+	<fuente id="107">
+		<titulo>Fonte de Pazó</titulo>
+		<ubicacion>
+			<lugar>Rúa do Pazó, 52</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.212658</latitud>
+			<longitud>-8.726245</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra, O Pazó, que hace referencia probablemente a una familia burguesa que tenía ese apellido y muchas propiedades, como ésta.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="52">
+		<titulo>Fonte do Pebidal</titulo>
+		<ubicacion>
+			<lugar>Avenida de Santa Mariña, cruce del Camiño Vello da Nogueira</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.225491</latitud>
+			<longitud>-8.647652</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una zona de tojo nuevo, es decir, un pebidal.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1977</analizada>
+	</fuente>
+	<fuente id="480">
+		<titulo>Fonte da Pedra Longa</titulo>
+		<ubicacion>
+			<lugar>Parque do Monte Vixiador</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.249381</latitud>
+			<longitud>-8.645416</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una piedra de una longitud destacada como para dar nombre al lugar.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="279">
+		<titulo>Fonte da Pedreira</titulo>
+		<ubicacion>
+			<lugar>Camiño da Pedreira, 1</lugar>
+			<parroquia>Comesaña</parroquia>
+			<latitud>42.20337</latitud>
+			<longitud>-8.75261</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una zona pedregosa, un pedregal</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="441">
+		<titulo>Fonte da Pedrosa</titulo>
+		<ubicacion>
+			<lugar>Final del Camiño da Pedrosa</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.1928</latitud>
+			<longitud>-8.684774</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra, A Pedrosa, que hace referencia a un lugar pedregoso</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="497">
+		<titulo>Fonte do Peimallo</titulo>
+		<ubicacion>
+			<lugar>Estrada do Zondal, en el ramal que lleva a la Estrada do Freixo</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.174148</latitud>
+			<longitud>-8.739983</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Este topónimo es un poco oscuro, debido a que el término peimallo no se encuentra en los diccionarios. Con todo, es posible que se trate de un sobrenombre de un antiguo propietario de los terrenos, o que sea una variante de peinado, que referido a un monte, sería una metáfora de los árboles, que estarían peinados.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="48">
+		<titulo>Fonte da Pena</titulo>
+		<ubicacion>
+			<lugar>Rúa da Becerreira, 1</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.221711</latitud>
+			<longitud>-8.661795</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un lugar donde se encontraba una piedra llamativa (o ser varias y tratarse de un pedregal)</origen>
+		<lavadero>true</lavadero>
+		<analizada>1974</analizada>
+	</fuente>
+	<fuente id="287">
+		<titulo>Fonte das Penelas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Pinelas, 11</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.239851</latitud>
+			<longitud>-8.701616</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar pedregoso, cubierto de piedras</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="21">
+		<titulo>Fonte da Penseira</titulo>
+		<ubicacion>
+			<lugar>Camiño de Cerdeirós, 11</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.193052</latitud>
+			<longitud>-8.682492</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un lugar donde se plantaba el paínzo, un cereal. El topónimo correcto es A Penceira, A Penseira es el topónimo utilizado en el habla, debido al seseo.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="378">
+		<titulo>Fonte do Penso</titulo>
+		<ubicacion>
+			<lugar>Rúa de Paredes, 15</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.213679</latitud>
+			<longitud>-8.658315</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un lugar donde se plantaba el paínzo, un cereal.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="176">
+		<titulo>Fonte do Pingallo</titulo>
+		<ubicacion>
+			<lugar>Estrada do Freixo, fronte 92</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.175492</latitud>
+			<longitud>-8.73521</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a una fuente que pingaba, es decir, que echaba el agua a gotas. No es el caso en la actualidad.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="79">
+		<titulo>Fonte do Pío</titulo>
+		<ubicacion>
+			<lugar>Camiño do Pío, 17</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.244824</latitud>
+			<longitud>-8.666457</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido seguramente a una pila destinada a lavar la ropa o para dar de beber a los animales que habría en este lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="470/471">
+		<titulo>Fonte dos Pobres</titulo>
+		<ubicacion>
+			<lugar>Rúa da Santeira, 56</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.231071</latitud>
+			<longitud>-8.684296</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>En contraposición a la conocida como A Fonte dos Ricos, se refiere a una fuente de peor calidad o situación, aunque desconocemos el origen exacto del nombre.</origen>
+		<lavadero>false</lavadero>
+		<nota>Tiene dos caños, registrados de forma independiente cada uno, pero en ambos casos, la calidad del agua es la misma.</nota>
+	</fuente>
+	<fuente id="54">
+		<titulo>Fonte do Pomar</titulo>
+		<ubicacion>
+			<lugar>Camiño das Ánimas, 23</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.220737</latitud>
+			<longitud>-8.665757</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un lugar donde existían uno o varios manzanos</origen>
+		<lavadero>false</lavadero>
+		<analizada>2001</analizada>
+	</fuente>
+	<fuente id="120">
+		<titulo>Fonte da Ponte Nova</titulo>
+		<ubicacion>
+			<lugar>Baixada á Ponte Nova (Cruce Paseo do Lagares)</lugar>
+			<parroquia>Freixeiro</parroquia>
+			<latitud>42.217535</latitud>
+			<longitud>-8.721931</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar donde se encuentra, A Ponte Nova, que hace referencia a un puente sobre el Lagares más reciente que los otros de la zona.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="7">
+		<titulo>Fonte das Portaleiras</titulo>
+		<ubicacion>
+			<lugar>Camiño das Portaleiras, 52</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.184147</latitud>
+			<longitud>-8.701787</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Sin calificar</calidad>
+		<origen>Referido al lugar donde se encuentra, As Portaleiras, referido a un compuesto de Porta das Leiras, es decir, unas fincas cerradas sobre sí mismas a través de un paso.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="6">
+		<titulo>Fonte do Porto</titulo>
+		<ubicacion>
+			<lugar>Camiño das Portaleiras, 33</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.182994</latitud>
+			<longitud>-8.70141</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra, O Porto, que hace referencia a un obstáculo que atraviesa un camino (un río, un paso entre montañas...)</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="418">
+		<titulo>Fonte da Pouleira</titulo>
+		<ubicacion>
+			<lugar>Praza da Pouleira</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.243705</latitud>
+			<longitud>-8.690705</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unos terrenos destinados generalmente a pasto.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1996</analizada>
+	</fuente>
+	<fuente id="407">
+		<titulo>Fonte da Pouleira Lavadoiro</titulo>
+		<ubicacion>
+			<lugar>Camiño da Pouleira, 14</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.244351</latitud>
+			<longitud>-8.690621</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a unos terrenos destinados generalmente a pasto.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1994</analizada>
+	</fuente>
+	<fuente id="439">
+		<titulo>Fonte do Pouso</titulo>
+		<ubicacion>
+			<lugar>Parque do Pouso</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.195123</latitud>
+			<longitud>-8.670563</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lugar donde se encuentra, O Pouso, referido a un terreno relativamente llano dentro de una zona de pendiente.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="473">
+		<titulo>Fonte da Poza</titulo>
+		<ubicacion>
+			<lugar>Parque entre la Rúa de Ignacio Grobas y la Rúa de Obdulia Simón</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.232635</latitud>
+			<longitud>-8.683017</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un charco que existía en el lugar de forma más o menos permanente.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="495">
+		<titulo>Fonte dos Pozos</titulo>
+		<ubicacion>
+			<lugar>Estrada do Freixo (Parque do Monte dos Pozos)</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.182728</latitud>
+			<longitud>-8.735968</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un conjunto de charcos más o menos permanentes o pequeños embalses para retener el agua.</origen>
+		<lavadero>false</lavadero>
+		<analizada>2008</analizada>
+	</fuente>
+	<fuente id="129">
+		<titulo>Fonte da Preguiza</titulo>
+		<ubicacion>
+			<lugar>Estrada de Moledo, 20</lugar>
+			<parroquia>Sárdoma</parroquia>
+			<latitud>42.213607</latitud>
+			<longitud>-8.706313</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido probablemente a una fuente donde la gente paraba a descansar en el camino hacia o desde Vigo, teniendo en cuenta que esta fuente se encuentra en el antiguo camino principal de Bembrive a Vigo.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="365">
+		<titulo>Fonte das Presas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Presas, fronte 15</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.185006</latitud>
+			<longitud>-8.695768</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de As Presas, que hace referencia a unos pequeños embalses destinados a retener el agua para distribuirla para regar los campos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="2">
+		<titulo>Fonte das Presiñas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Presiñas, 3</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.194087</latitud>
+			<longitud>-8.714212</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de As Presiñas, que hace referencia a unos pequeños embalses destinados a retener el agua para distribuirla para regar los campos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1974</analizada>
+	</fuente>
+	<fuente id="162">
+		<titulo>Fonte da Quinta</titulo>
+		<ubicacion>
+			<lugar>Camiño da Quinta, 9</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.178221</latitud>
+			<longitud>-8.722659</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una quinta, casa de campo con sus terrenos de alrededor.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="8">
+		<titulo>Fonte de Quintián</titulo>
+		<ubicacion>
+			<lugar>Estrada do Porto, 105</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.179294</latitud>
+			<longitud>-8.699442</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un antropónimo medieval de origen germánica, vendría de Villam Quintilani, es decir, las tierras de Quintila en la Edad Media</origen>
+		<lavadero>true</lavadero>
+		<analizada>1979</analizada>
+	</fuente>
+	<fuente id="396">
+		<titulo>Fonte de Quintín</titulo>
+		<ubicacion>
+			<lugar>Travesía do Monte, cruce Rúa de Saa</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.202326</latitud>
+			<longitud>-8.713802</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Sin calificar</calidad>
+		<origen>Referido al apodo de un antiguo propietario de los terrenos.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="15">
+		<titulo>Fonte da Raíña</titulo>
+		<ubicacion>
+			<lugar>Camiño da Raíña, 6</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.197748</latitud>
+			<longitud>-8.68754</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Probablemente referido a la raia que separa los barrios de Outeiro y Mourelle, o al apodo de una antigua propietaria de los terrenos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="264">
+		<titulo>Fonte da Ramona</titulo>
+		<ubicacion>
+			<lugar>Rúa de Naia, 260</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.21876</latitud>
+			<longitud>-8.683473</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un antiguo propietario de las tierras, ya sea Ramona o Ramón (A de Ramón -> A Ramona)</origen>
+		<lavadero>true</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="53">
+		<titulo>Fonte de Rans</titulo>
+		<ubicacion>
+			<lugar>Avenida do Tranvía, 193</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.227268</latitud>
+			<longitud>-8.642103</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una zona húmeda donde proliferaban las ranas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="125">
+		<titulo>Fonte da Raxeira</titulo>
+		<ubicacion>
+			<lugar>Rúa de Enrique Alonso Xalueiro, 11</lugar>
+			<parroquia>Sárdoma</parroquia>
+			<latitud>42.217865</latitud>
+			<longitud>-8.717174</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar donde se encuentra, se trata de una ladera orientada hacia el este por lo que se trata de uno de los lugares más soleados de la parroquia.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="409">
+		<titulo>Fonte de Recaré</titulo>
+		<ubicacion>
+			<lugar>Rúa de Recaré, 55</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.210875</latitud>
+			<longitud>-8.689098</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra. El topónimo Recaré hace referencia a un propietario de los terrenos durante la Edad Media, provendría de Villam Recaredus, es decir, las tierras de Recaredus. Popularmente se le conoce como A Fonte do Ledo, en referencia a un antiguo propietario de los terrenos que llevaba ese apellido.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="294">
+		<titulo>Fonte de Redomeira</titulo>
+		<ubicacion>
+			<lugar>Rúa da Redomeira, 108</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.236385</latitud>
+			<longitud>-8.700028</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar donde se encuentra, Redomeira, referido a un río que atraviesa el lugar, conocido como Río de Meira. Esta fuente también se conoce como A Fonte de Lavadores, por estar en la zona donde se encontraba el topónimo Lavadores, que posteriormente acabó dando nombre a toda la parroquia.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1982</analizada>
+	</fuente>
+	<fuente id="904">
+		<titulo>Fonte das Regadas - Bembrive</titulo>
+		<ubicacion>
+			<lugar>Rúa de Xestoso, 2</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.200378</latitud>
+			<longitud>-8.673939</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Sin calificar</calidad>
+		<origen>Referido a un canal donde se encuentra un riego de agua, o a las tierras próximas a un curso de agua.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="429">
+		<titulo>Fonte das Regadas - Matamá</titulo>
+		<ubicacion>
+			<lugar>Camiño do Padrón, ramal que parte del número 14</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.202564</latitud>
+			<longitud>-8.742057</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un canal donde se encuentra un riego de agua, o a las tierras próximas a un curso de agua.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="904A">
+		<titulo>Fonte das Regadas Lavadoiro</titulo>
+		<ubicacion>
+			<lugar>Rúa de Xestoso, 2</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.200411</latitud>
+			<longitud>-8.673912</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un canal donde se encuentra un riego de agua, o a las tierras próximas a un curso de agua.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="173">
+		<titulo>Fonte das Regadiñas</titulo>
+		<ubicacion>
+			<lugar>Ramal Estrada do Portal, al pasar el 242</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.169497</latitud>
+			<longitud>-8.710565</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un canal donde se encuentra un riego de agua, o a las tierras próximas a un curso de agua.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="913">
+		<titulo>Fonte das Regas</titulo>
+		<ubicacion>
+			<lugar>Ladera Parque Forestal de Beade</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.176296</latitud>
+			<longitud>-8.691541</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un pequeño curso de agua que discurre por el lugar.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="351">
+		<titulo>Fonte do Regato da Estea</titulo>
+		<ubicacion>
+			<lugar>Parque Forestal de Saiáns</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.169968</latitud>
+			<longitud>-8.793116</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un curso de agua que desemboca en A Estea, más abajo.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1988</analizada>
+	</fuente>
+	<fuente id="474">
+		<titulo>Fonte do Rego</titulo>
+		<ubicacion>
+			<lugar>Rúa de Ignacio Grobas (detrás del 17)</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.232761</latitud>
+			<longitud>-8.68262</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un pequeño curso de agua que discurre por el lugar.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="114">
+		<titulo>Fonte de Rego Loureiro</titulo>
+		<ubicacion>
+			<lugar>Estrada do Zondal, junto incineradora</lugar>
+			<parroquia>Comesaña</parroquia>
+			<latitud>42.189851</latitud>
+			<longitud>-8.749778</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un pequeño curso de agua que discurre por el lugar, conocido como O Loureiro por haber existido en este lugar un bosque de laureles.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="65">
+		<titulo>Fonte da Regueira - Cabral</titulo>
+		<ubicacion>
+			<lugar>Camiño da Regueira, 4</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.229192</latitud>
+			<longitud>-8.655287</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un curso de agua que desde aquí desemboca en el Lagares.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="71">
+		<titulo>Fonte da Regueira - Candeán</titulo>
+		<ubicacion>
+			<lugar>Camiño da Regueira, 8</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.232568</latitud>
+			<longitud>-8.674411</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un curso de agua que desde aquí desemboca en el Lagares.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="20">
+		<titulo>Fonte dos Regueiriños</titulo>
+		<ubicacion>
+			<lugar>Rúa do Carballal, 16</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.197016</latitud>
+			<longitud>-8.684757</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un curso de agua de poca entidad que existía en el lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="293">
+		<titulo>Fonte do Regueiro - Coruxo</titulo>
+		<ubicacion>
+			<lugar>Camiño do Río da Barxa, 18</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.178721</latitud>
+			<longitud>-8.760676</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al arroyo de agua que discurre por el lugar</origen>
+		<lavadero>false</lavadero>
+		<analizada>1985</analizada>
+	</fuente>
+	<fuente id="270">
+		<titulo>Fonte do Regueiro - Lavadores</titulo>
+		<ubicacion>
+			<lugar>Camiño dos Carballeiros, 6</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.220562</latitud>
+			<longitud>-8.688408</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al arroyo de agua que baja junto a la fuente y donde se construyó un lavadero para aprovecharlo</origen>
+		<lavadero>false</lavadero>
+		<analizada>1981</analizada>
+		<nota>El lavadero se nutre de aguas del río, no de la fuente</nota>
+	</fuente>
+	<fuente id="95">
+		<titulo>Fonte do Regueiro - Matamá</titulo>
+		<ubicacion>
+			<lugar>Rúa da Revolta, 9</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.200535</latitud>
+			<longitud>-8.733377</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al arroyo de agua que discurre por el lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="255">
+		<titulo>Fonte do Regueiro de Alén</titulo>
+		<ubicacion>
+			<lugar>Sendero entre el Camiño da Pinguela y la Estrada do Freixo</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.178381</latitud>
+			<longitud>-8.740298</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al arroyo de agua que discurre por el lugar, que estaba más allá de las casas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="164">
+		<titulo>Fonte do Rei</titulo>
+		<ubicacion>
+			<lugar>Camiño da Igrexa, 152</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.179843</latitud>
+			<longitud>-8.725695</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido posiblemente a unas tierras propiedad de la Corona, generalmente dehesas, cuyas maderas se destinaban a la construcción de infraestructuras.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="56">
+		<titulo>Fonte da Retorta</titulo>
+		<ubicacion>
+			<lugar>Camiño da Retorta, fronte 41</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.230977</latitud>
+			<longitud>-8.634479</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una curva pronunciada de un camino que antaño atravesaba el lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="283">
+		<titulo>Fonte da Ría-Cambeses</titulo>
+		<ubicacion>
+			<lugar>Baixada á Ría, 16</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.228164</latitud>
+			<longitud>-8.683497</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al Regueiro de Cambeses, que por esta zona hace mucho ruido cuando va con alto caudal.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="916">
+		<titulo>Fonte do Rial</titulo>
+		<ubicacion>
+			<lugar>Camiño da Gandariña, 19</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.218196</latitud>
+			<longitud>-8.697893</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a unas tierras ubicadas al lado de un río, en este caso, el Lagares.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="914">
+		<titulo>Fonte do Rialexo</titulo>
+		<ubicacion>
+			<lugar>Camiño do Laranxo, 27</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.191887</latitud>
+			<longitud>-8.704537</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido posiblemente a un rial que discurre por la zona.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="144">
+		<titulo>Fonte de Riazón</titulo>
+		<ubicacion>
+			<lugar>Estrada do Vao, 27</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.193819</latitud>
+			<longitud>-8.776875</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un pequeño curso de agua que baja por el lugar, es un diminutivo de río.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="99">
+		<titulo>Fonte de Ribás Río</titulo>
+		<ubicacion>
+			<lugar>Camiño da Carpinteira, cruce Estrada da Balsa</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.199583</latitud>
+			<longitud>-8.741276</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al río de Ribás, que atraviesa esta zona.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="113">
+		<titulo>Fonte das Ribelas</titulo>
+		<ubicacion>
+			<lugar>Rúa das Ribelas, 26</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.200515</latitud>
+			<longitud>-8.734975</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a unas tierras ubicadas junto a un curso de agua.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="472">
+		<titulo>Fonte dos Ricos</titulo>
+		<ubicacion>
+			<lugar>Parque entre la Rúa de Ignacio Grobas y la Rúa de Obdulia Simón</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.23244</latitud>
+			<longitud>-8.683193</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>En contraposición a la Fonte dos Pobres, hará referencia a una mejor calidad del agua, mejor ubicación, o una leyenda, pero desconocemos la razón real del nombre.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="433">
+		<titulo>Fonte do Río da Fraga</titulo>
+		<ubicacion>
+			<lugar>Estrada de Fragoselo, 287</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.174912</latitud>
+			<longitud>-8.757525</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un río que discurre por el lugar, conocido como Río da Fraga, posiblemente referido a lo pedregoso del rural, que es el significado que tiene fraga aquí.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="377">
+		<titulo>Fonte do Río das Cortes</titulo>
+		<ubicacion>
+			<lugar>Ramal entre la Estrada do Portal y el Camiño da Valada</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.175623</latitud>
+			<longitud>-8.718148</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un río que discurre por el lugar, conocido como Río das Cortes, seguramente referido a unas cortes destinadas a resguardar el ganado.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1990</analizada>
+	</fuente>
+	<fuente id="228">
+		<titulo>Fonte do Río das Pontes</titulo>
+		<ubicacion>
+			<lugar>Camiño das Pontes - cruce Rúa de Naia</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.222169</latitud>
+			<longitud>-8.69529</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a la denominación que el Río Lagares tiene en este tramo, referido a la existencia de varios pasos para cruzarlo. Según Iván Sestay, en su libro sobre la toponimia de Lavadores, supuestamente estas aguas curaban el incanido de los niños, evitando su muerte.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1977</analizada>
+	</fuente>
+	<fuente id="210">
+		<titulo>Fonte de Roade</titulo>
+		<ubicacion>
+			<lugar>Avenida de Atlántida (entre 98 y 100)</lugar>
+			<parroquia>Alcabre</parroquia>
+			<latitud>42.221965</latitud>
+			<longitud>-8.760984</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Hace referencia al lugar donde se encuentra situada, Roade, cuyo topónimo tiene su origen en la Edad Media, se refiere a un antropónimo medieval de origen germánico cuyo significado es Las tierras de Ronaldo.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1978</analizada>
+	</fuente>
+	<fuente id="135">
+		<titulo>Fonte da Rodeira</titulo>
+		<ubicacion>
+			<lugar>Camiño da Rodeira, 33</lugar>
+			<parroquia>Comesaña</parroquia>
+			<latitud>42.197706</latitud>
+			<longitud>-8.754699</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de A Rodeira, cuyo topónimo seguramente haga referencia a un camino estrecho que atravesaba este lugar.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="920">
+		<titulo>Fonte da Romalla</titulo>
+		<ubicacion>
+			<lugar>Camiño da Romalla, fronte 12</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.237822</latitud>
+			<longitud>-8.690653</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una ramalla, es decir, una zona de vegetación espesa. Nótese que siempre se dice A Romalla, que es una evolución de un antiguo A Ramalla, que se conservaba en las primeras placas del camino (ya desaparecidas) y en el nombre de la fuente.</origen>
+		<lavadero>true</lavadero>
+	</fuente>
+	<fuente id="298">
+		<titulo>Fonte do Romano</titulo>
+		<ubicacion>
+			<lugar>Estrada de Camposancos, 259</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.18578</latitud>
+			<longitud>-8.780782</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Con casi toda probabilidad referida a que se encuentra en el camino principal (camino real) que comunicaba Vigo con Baiona, que discurría aproximadamente por la actual Estrada de Camposancos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1982</analizada>
+	</fuente>
+	<fuente id="438">
+		<titulo>Fonte de Rorigo</titulo>
+		<ubicacion>
+			<lugar>Camiño do Monte Vello, 6</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.206978</latitud>
+			<longitud>-8.6713</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra, que es un antropónimo medieval de origen germánico, es decir, Villam Rudericus en la Edad Media, nombre que dio lugar al actual Rodrigo (y al apellido Rodríguez)</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="190">
+		<titulo>Fonte de Rorís</titulo>
+		<ubicacion>
+			<lugar>Rúa de Rorís, 52</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.245679</latitud>
+			<longitud>-8.691621</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra, que es un antropónimo medieval de origen germánico, es decir, Villam Rudericus en la Edad Media, es decir, las tierras de Rodericu, nombre que dio lugar al actual Rodrigo (y al apellido Rodríguez).</origen>
+		<lavadero>true</lavadero>
+		<analizada>1971</analizada>
+	</fuente>
+	<fuente id="96">
+		<titulo>Fonte do Roupeiro</titulo>
+		<ubicacion>
+			<lugar>Rúa do Roupeiro, 57</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.204917</latitud>
+			<longitud>-8.738497</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar donde se encuentra, que es un antropónimo medieval de origen germánico, es decir, Villam Raupari, es decir, las tierras de Rauparius en la Edad Media.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="431">
+		<titulo>Fonte da Rúa Carapucha</titulo>
+		<ubicacion>
+			<lugar>Rúa da Carapucha, 87</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.198788</latitud>
+			<longitud>-8.729255</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la Rúa da Carapucha, donde se encuentra.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="483">
+		<titulo>Fonte da Saladina</titulo>
+		<ubicacion>
+			<lugar>Camiño da Saladiña, 9</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.244343</latitud>
+			<longitud>-8.671964</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido seguramente al apodo de uno de los antiguos propietarios de las tierras, es conocida como Fonte do Eirado, por tener (como se puede ver a día de hoy) aspecto de pequeña plaza rodeada de casas.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="428">
+		<titulo>Fonte do Salgueiral</titulo>
+		<ubicacion>
+			<lugar>Rúa das Ribelas, entre 21 y 25</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.199045</latitud>
+			<longitud>-8.734311</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un bosque de sauces, salgueiros en gallego.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1997</analizada>
+	</fuente>
+	<fuente id="104">
+		<titulo>Fonte de San Antón</titulo>
+		<ubicacion>
+			<lugar>Parque Quiñones de León</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.212774</latitud>
+			<longitud>-8.727604</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Probablemente dedicada a San Antonio, santo con bastante devoción en Galicia, teniendo en cuenta que estos terrenos eran privados y más dados a denominaciones impuestas.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="24">
+		<titulo>Fonte de San Cibrán</titulo>
+		<ubicacion>
+			<lugar>Estrada de San Cibrán, 28</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.186532</latitud>
+			<longitud>-8.677405</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la capilla de San Cibrán, que dio nombre a este lugar. La capilla actual se construyó en los años 60 del siglo XX, construyéndose dentro de la antigua, que se derribó.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="346">
+		<titulo>Fonte de San Pedro</titulo>
+		<ubicacion>
+			<lugar>Final del Camiño de San Pedro</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.221482</latitud>
+			<longitud>-8.645806</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una antigua iglesia con advocación a San Pedro que existió en el lugar y que solamente dejó su recuerdo en la toponimia.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="385">
+		<titulo>Fonte de San Xoan</titulo>
+		<ubicacion>
+			<lugar>Ramal de la Estrada de San Xoan, 142</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.184404</latitud>
+			<longitud>-8.747499</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la capilla de San Xoan de Freixo, que se encuentra más abajo y que da nombre a todo el barrio.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1991</analizada>
+	</fuente>
+	<fuente id="362">
+		<titulo>Fonte de San Xurxo</titulo>
+		<ubicacion>
+			<lugar>Camiño da Fontán, 13 (ramal)</lugar>
+			<parroquia>Saiáns</parroquia>
+			<latitud>42.167985</latitud>
+			<longitud>-8.812498</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de San Xurxo, seguramente tendría su origen en una capilla consagrada a San Jorge que existía en el lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1987</analizada>
+	</fuente>
+	<fuente id="62">
+		<titulo>Fonte de Sanín Alto</titulo>
+		<ubicacion>
+			<lugar>Camiño de Sanín, 13</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.235757</latitud>
+			<longitud>-8.639425</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un antropónimo medieval de posesor, estamos ante un Villam Sanini, es decir, las tierras de Seninus en la Edad Media.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="63">
+		<titulo>Fonte de Sanín Baixo</titulo>
+		<ubicacion>
+			<lugar>Camiño de Sanín, 13</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.23576</latitud>
+			<longitud>-8.639393</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un antropónimo medieval de posesor, estamos ante un Villam Sanini, es decir, las tierras de Seninus en la Edad Media.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="316">
+		<titulo>Fonte da Sansegueira</titulo>
+		<ubicacion>
+			<lugar>Camiño da Fonte da Chan Sequeira</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.202246</latitud>
+			<longitud>-8.695273</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la presencia de samesugas (sanguijuelas) en este tramo del Río Eifonso.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1985</analizada>
+		<nota>Esta fuente se conoce oficialmente como Fonte da Chan Sequeira y en la rotulación como Fonte da Sansegueira, el topónimo real es el segundo, y por lo tanto, hemos escogido el que aparece en la rotulación.</nota>
+	</fuente>
+	<fuente id="105">
+		<titulo>Fonte de Santa Ana</titulo>
+		<ubicacion>
+			<lugar>Parque Quiñones de León</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.212232</latitud>
+			<longitud>-8.727791</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Probablemente dedicada a Santa Ana, santa con bastante devoción en Galicia, teniendo en cuenta que estos terrenos eran privados y más dados a denominaciones impuestas.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1973</analizada>
+	</fuente>
+	<fuente id="388">
+		<titulo>Fonte de Santa Clara</titulo>
+		<ubicacion>
+			<lugar>Parque de José Pereira</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.226565</latitud>
+			<longitud>-8.674871</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referida a Santa Clara, topónimo de reciente creación, cuyo origen está en la fábrica de Álvarez, cuyas piezas de loza tenían la marca Santa Clara, nombre importado de América y que acabó dando nombre hasta a una neoparroquia.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1991</analizada>
+		<nota>Esta fuente se conocía (y aparece en la placa) como Fonte das Casas de Álvarez.</nota>
+	</fuente>
+	<fuente id="489">
+		<titulo>Fonte do Sapo</titulo>
+		<ubicacion>
+			<lugar>Estrada do Portal, 175</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.176682</latitud>
+			<longitud>-8.716932</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido seguramente a un sapo que aparecería muerto en la fuente, a ser un lugar donde proliferaban o incluso al apodo de un antiguo propietario de las tierras</origen>
+		<lavadero>false</lavadero>
+		<analizada>2007</analizada>
+	</fuente>
+	<fuente id="166">
+		<titulo>Fonte do Seguedo</titulo>
+		<ubicacion>
+			<lugar>Estrada de Valadares, 175</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.179623</latitud>
+			<longitud>-8.721531</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a unas tierras segueiras, es decir, con alguna característica que las hiciera parecer rotas o descalabradas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="213">
+		<titulo>Fonte do Seixo - Beade</titulo>
+		<ubicacion>
+			<lugar>Camiño do Abanico, 19</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.200767</latitud>
+			<longitud>-8.711569</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referida a un lugar donde abundan las piedras de cuarzo, conocidas en gallego como seixos.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1979</analizada>
+	</fuente>
+	<fuente id="446">
+		<titulo>Fonte do Seixo - Candeán</titulo>
+		<ubicacion>
+			<lugar>Parque do Monte Vixiador</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.252249</latitud>
+			<longitud>-8.653456</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referida a un lugar donde abundan las piedras de cuarzo, conocidas en gallego como seixos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1998</analizada>
+	</fuente>
+	<fuente id="319">
+		<titulo>Fonte do Seixo - Zamáns</titulo>
+		<ubicacion>
+			<lugar>Camiño da Fonte do Seixo, 7</lugar>
+			<parroquia>Zamáns</parroquia>
+			<latitud>42.15724</latitud>
+			<longitud>-8.680773</longitud>
+		</ubicacion>
+		<caudal>Alto</caudal>
+		<calidad>Media</calidad>
+		<origen>Referida a un lugar donde abundan las piedras de cuarzo, conocidas en gallego como seixos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>2001</analizada>
+	</fuente>
+	<fuente id="347">
+		<titulo>Fonte do Sello</titulo>
+		<ubicacion>
+			<lugar>Avenida da Ponte, 28</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.220749</latitud>
+			<longitud>-8.670113</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Referida al lugar de O Sello, posiblemente referido a una planta conocida en castellano como lirio de los valles y en gallego como sello.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="305">
+		<titulo>Fonte de Senras</titulo>
+		<ubicacion>
+			<lugar>Rúa da Senra, 2</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.197825</latitud>
+			<longitud>-8.682579</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Debido a que en este lugar se plantaba cereal. Tanto A Senra como As Senras son formas utilizadas para referirse a este lugar, siendo la más aceptada la primera.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1983</analizada>
+	</fuente>
+	<fuente id="456">
+		<titulo>Fonte de Seoane</titulo>
+		<ubicacion>
+			<lugar>Estrada da Gándara, 179</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.15994</latitud>
+			<longitud>-8.707254</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Seoane, topónimo referido a San Xoan, siendo una de las formas de nombrarlo.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1999</analizada>
+	</fuente>
+	<fuente id="131">
+		<titulo>Fonte da Sidra</titulo>
+		<ubicacion>
+			<lugar>Camiño da Costa da Peteta, 91</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.208636</latitud>
+			<longitud>-8.70194</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Posiblemente haga referencia a un antiguo propietario de los terrenos llamado Isidro (A de Sidro -> A Sidra)</origen>
+		<lavadero>false</lavadero>
+		<analizada>1974</analizada>
+	</fuente>
+	<fuente id="156">
+		<titulo>Fonte da Simona</titulo>
+		<ubicacion>
+			<lugar>Camiño da Simona, 76</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.1882</latitud>
+			<longitud>-8.724036</longitud>
+		</ubicacion>
+		<caudal>Ninguno</caudal>
+		<calidad>Buena</calidad>
+		<origen>Posiblemente haga referencia a un antiguo propietario de los terrenos llamado Simón (A de Simón -> A Simona)</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="85">
+		<titulo>Fonte do Solombo</titulo>
+		<ubicacion>
+			<lugar>Camiño do Solombo, 16</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.23823</latitud>
+			<longitud>-8.64827</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a una zona por debajo de una elevación, como se puede ver en el terreno, que es una depresión (por debaixo do lombo)</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="447">
+		<titulo>Fonte do Sorrego</titulo>
+		<ubicacion>
+			<lugar>Camiño do Sorrego, 20</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.240343</latitud>
+			<longitud>-8.661655</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a unas tierras situadas bajo el Río de San Cristovo.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1998</analizada>
+	</fuente>
+	<fuente id="214">
+		<titulo>Fonte do Souto - Beade</titulo>
+		<ubicacion>
+			<lugar>Rúa da Sá do Monte, 40</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.202826</latitud>
+			<longitud>-8.711016</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un souto, un bosque de castaños.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1979</analizada>
+	</fuente>
+	<fuente id="317">
+		<titulo>Fonte do Souto - Lavadores</titulo>
+		<ubicacion>
+			<lugar>Ramal Rúa de Subride, detrás del Camiño dos Pardiñeiros de Abaixo, 2</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.234945</latitud>
+			<longitud>-8.677962</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a un souto, un bosque de castaños.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1985</analizada>
+	</fuente>
+	<fuente id="160">
+		<titulo>Fonte do Souto Lavadoiro</titulo>
+		<ubicacion>
+			<lugar>Camiño do Souto, fronte 10</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.171185</latitud>
+			<longitud>-8.708224</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un souto, un bosque de castaños.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="168">
+		<titulo>Fonte do Souto Número 1</titulo>
+		<ubicacion>
+			<lugar>Estrada do Souto, 58</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.174027</latitud>
+			<longitud>-8.730115</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un souto, un bosque de castaños.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="169">
+		<titulo>Fonte do Souto Número 2</titulo>
+		<ubicacion>
+			<lugar>Estrada do Souto, 42</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.175123</latitud>
+			<longitud>-8.730457</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido a un souto, un bosque de castaños.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1972</analizada>
+	</fuente>
+	<fuente id="235">
+		<titulo>Fonte da Subida á Madroa</titulo>
+		<ubicacion>
+			<lugar>Estrada á Madroa, en el límite con Chapela</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.253815</latitud>
+			<longitud>-8.670927</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la Estrada á Madroa, que sube hacia el Monte da Madroa.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="397">
+		<titulo>Fonte da Subida a Santa Mariña</titulo>
+		<ubicacion>
+			<lugar>Avenida de Santa Mariña, 2</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.220152</latitud>
+			<longitud>-8.669756</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a la Avenida de Santa Mariña, que sube hacia la iglesia de Cabral.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="199">
+		<titulo>Fonte da Subida Cemiterio</titulo>
+		<ubicacion>
+			<lugar>Rúa do Párroco Don Serafín, 29</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.256139</latitud>
+			<longitud>-8.679807</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a la Rúa do Párroco Don Serafín, que sube hacia el cementerio de Teis.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1974</analizada>
+	</fuente>
+	<fuente id="241">
+		<titulo>Fonte de Subride</titulo>
+		<ubicacion>
+			<lugar>Camiño de Sampaio de Abaixo, 86</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.234339</latitud>
+			<longitud>-8.679765</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de Subride, cuyo topónimo hace referencia a un bosque de alcornoques que ocupaba antaño el lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="3">
+		<titulo>Fonte do Tallo</titulo>
+		<ubicacion>
+			<lugar>Rúa de Ramiro Pascual, 143</lugar>
+			<parroquia>Beade</parroquia>
+			<latitud>42.192188</latitud>
+			<longitud>-8.708288</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referida posiblemente a un tallo, un asiento de madera, generalmente para una sola persona. Se conocía como A Fonte da Vila por encontrarse en las proximidades de la vila de Beade, es decir, las casas que rodeaban a la iglesia.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="917">
+		<titulo>Fonte do Tanque</titulo>
+		<ubicacion>
+			<lugar>Rúa de Riomao, 21</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.226794</latitud>
+			<longitud>-8.65897</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referida a un estanque de agua destinado al riego de los campos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>2003</analizada>
+	</fuente>
+	<fuente id="128">
+		<titulo>Fonte da Telleira</titulo>
+		<ubicacion>
+			<lugar>Estrada de Fragosiño, 32</lugar>
+			<parroquia>Sárdoma</parroquia>
+			<latitud>42.212057</latitud>
+			<longitud>-8.710384</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Hace referencia al lugar donde se encuentra situada, A Telleira, que hace referencia a un horno donde se fabricaban tejas, que se instalaban en el entorno del Lagares, aprovechando las tierras enlodadas del entorno.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="398">
+		<titulo>Fonte da Tomada</titulo>
+		<ubicacion>
+			<lugar>Baixada á Moo, 56</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.191981</latitud>
+			<longitud>-8.73461</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido a unas tierras de cultivo ganadas al monte comunal</origen>
+		<lavadero>false</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="491">
+		<titulo>Fonte de Tomás Paredes</titulo>
+		<ubicacion>
+			<lugar>Rúa de Tomás Paredes, 40</lugar>
+			<parroquia>Coia</parroquia>
+			<latitud>42.221597</latitud>
+			<longitud>-8.754075</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Hace referencia al nombre de la calle donde se encuentra. Tomás Paredes fue un indiano que donó parte de su fortuna a la villa de Bouzas.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="286">
+		<titulo>Fonte da Torre</titulo>
+		<ubicacion>
+			<lugar>Camiño da Torre, 33</lugar>
+			<parroquia>Coruxo</parroquia>
+			<latitud>42.190366</latitud>
+			<longitud>-8.772544</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Hace referencia al lugar donde se encuentra situada, A Torre, que seguramente sea un topónimo referido a una casa de hidalgos o campesinos ricos, que son más grandes que las casas normales.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="234">
+		<titulo>Fonte do Toxal</titulo>
+		<ubicacion>
+			<lugar>Rúa do Toxal, detrás de Aragón, 97</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.236084</latitud>
+			<longitud>-8.701805</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Hace referencia a una zona donde crecían los toxos, que se utilizaban generalmente como combustible. Esta fuente era conocida como A Fonte Chorosa, debido a que el ruido que hacía el agua al caer simulaba al de una persona llorando.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1980</analizada>
+	</fuente>
+	<fuente id="394">
+		<titulo>Fonte da Traída de Augas</titulo>
+		<ubicacion>
+			<lugar>Camiño da Traída de Augas, 20</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.250923</latitud>
+			<longitud>-8.680842</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Hace referencia a la traída de aguas del embalse de Eiras a la ciudad de Vigo, que discurre por esta zona, y que ha sido aprovechada para construir un camino.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="937">
+		<titulo>Fonte da Traída do Pouso</titulo>
+		<ubicacion>
+			<lugar>Camiño do Pouso (junto a la Estrada das Plantas)</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.198393</latitud>
+			<longitud>-8.669048</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a que de esta fuente se suministraban los vecinos de O Pouso de agua que se conduce a las casas a través de una presa que está más abajo, conocida como A Presa da Regueiriña.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="421">
+		<titulo>Fonte da Valada</titulo>
+		<ubicacion>
+			<lugar>Camiño da Valada, 65</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.171971</latitud>
+			<longitud>-8.719114</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Referido al lugar de A Valada, cuyo topónimo hace referencia a un conjunto de fincas cerradas con vallados.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1996</analizada>
+	</fuente>
+	<fuente id="172">
+		<titulo>Fonte de Vales</titulo>
+		<ubicacion>
+			<lugar>Camiño de Vales, al pasar el 48</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.165417</latitud>
+			<longitud>-8.712165</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido al lugar de Vales, topónimo referido a un conjunto de tierras separadas por vallados.</origen>
+		<lavadero>false</lavadero>
+		<analizada>2000</analizada>
+	</fuente>
+	<fuente id="161">
+		<titulo>Fonte de Vales Lavadoiro</titulo>
+		<ubicacion>
+			<lugar>Camiño de Vales, cruce Estrada de Clara Campoamor</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.165284</latitud>
+			<longitud>-8.713058</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido al lavadero de Vales, del que toma el nombre</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="51">
+		<titulo>Fonte Vella da Grileira</titulo>
+		<ubicacion>
+			<lugar>Rúa de Molais, 116</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.223727</latitud>
+			<longitud>-8.653543</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a ser la fuente más reciente de Grileira, topónimo referido a una zona donde cantarían los grillos (e incluso puede referirse al ruido del agua de la fuente al caer, que sonaría como un grillo)</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="481">
+		<titulo>Fonte do Verde</titulo>
+		<ubicacion>
+			<lugar>Monte Vixiador</lugar>
+			<parroquia>Candeán</parroquia>
+			<latitud>42.246729</latitud>
+			<longitud>-8.650849</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a una zona de pasto muy buena, que siempre estaba muy verde.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="101">
+		<titulo>Fonte do Vilar</titulo>
+		<ubicacion>
+			<lugar>Camiño do Vilar, 69</lugar>
+			<parroquia>Matamá</parroquia>
+			<latitud>42.196605</latitud>
+			<longitud>-8.741124</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a un vilar, conjunto de casas rodeado de campos</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="229">
+		<titulo>Fonte de Vilar-Cortiñas</titulo>
+		<ubicacion>
+			<lugar>Camiño das Cortiñas, 18</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.223022</latitud>
+			<longitud>-8.704005</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Referido a que estamos en un lugar ubicado entre Vilar (referido a un conjunto de casas rodeado de campos) y As Curtiñas (unas piezas de labradío cerca de las casas).</origen>
+		<lavadero>false</lavadero>
+		<analizada>1975</analizada>
+	</fuente>
+	<fuente id="116">
+		<titulo>Fonte da Viloura</titulo>
+		<ubicacion>
+			<lugar>Camiño da Viloura, 52</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.211819</latitud>
+			<longitud>-8.720226</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Diminutivo de vila, es decir, una casa de campo y las tierras que la rodean.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="278">
+		<titulo>Fonte da Viña Grande</titulo>
+		<ubicacion>
+			<lugar>Camiño da Viña Grande, 13</lugar>
+			<parroquia>Alcabre</parroquia>
+			<latitud>42.220217</latitud>
+			<longitud>-8.766537</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Hace referencia al lugar donde se encuentra situada, Viña Grande, que tiene su origen en una viña de mayor tamaño de lo normal que existiría en este lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1985</analizada>
+	</fuente>
+	<fuente id="25">
+		<titulo>Fonte da Xabalouca</titulo>
+		<ubicacion>
+			<lugar>Ramal do Camiño do Pereiro</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.194322</latitud>
+			<longitud>-8.678094</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Hace referencia a unos terrenos ubicados por encima de esta fuente, conocidos como A Xabalouca, un topónimo que parece referirse al apodo de un antiguo propietario de los terrenos. Antaño era más conocida como A Fonte da Chan.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="157">
+		<titulo>Fonte do Xestal</titulo>
+		<ubicacion>
+			<lugar>Camiño do Caseiro, 2</lugar>
+			<parroquia>Valadares</parroquia>
+			<latitud>42.174641</latitud>
+			<longitud>-8.72517</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Media</calidad>
+		<origen>Hace referencia a un lugar abundante en xestas, retamas.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="391">
+		<titulo>Fonte de Xestoso</titulo>
+		<ubicacion>
+			<lugar>Rúa de Xestoso, 105</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.205312</latitud>
+			<longitud>-8.673266</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Hace referencia al lugar donde se encuentra situada, Xestoso, que tiene su origen en un lugar abundante en retamas, xestas en gallego.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1992</analizada>
+	</fuente>
+	<fuente id="28">
+		<titulo>Fonte de Xestoso de Arriba</titulo>
+		<ubicacion>
+			<lugar>Rúa de Xestoso, 68</lugar>
+			<parroquia>Bembrive</parroquia>
+			<latitud>42.203942</latitud>
+			<longitud>-8.673797</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Hace referencia al lugar donde se encuentra situada, Xestoso, que tiene su origen en un lugar abundante en retamas, xestas en gallego. Es conocida como A Fonte de Jesusa, porque los vecinos del Lugar de Arriba atajaban por la Finca de Jesusa para ir a esta fuente y no dar el rodeo por abajo.</origen>
+		<lavadero>false</lavadero>
+	</fuente>
+	<fuente id="108">
+		<titulo>Fonte da Xiña</titulo>
+		<ubicacion>
+			<lugar>Rúa dos Mestres Goldar, 21</lugar>
+			<parroquia>Castrelos</parroquia>
+			<latitud>42.209031</latitud>
+			<longitud>-8.725726</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Deformación de siña, bandera, se trata de un alto donde se colocaba una bandera como señal.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+	<fuente id="408">
+		<titulo>Fonte da Xorxa</titulo>
+		<ubicacion>
+			<lugar>Camiño da Xorxa, 39</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.250572</latitud>
+			<longitud>-8.686228</longitud>
+		</ubicacion>
+		<caudal>Medio</caudal>
+		<calidad>Buena</calidad>
+		<origen>Referido seguramente a una mala adaptación de Gorga, pronunciado como ghorgha, referido en este caso a una vertiente (una garganta) como se puede apreciar en este lugar.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1994</analizada>
+	</fuente>
+	<fuente id="383">
+		<titulo>Fonte da Xouba</titulo>
+		<ubicacion>
+			<lugar>Final del Camiño do Sobreiral</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.233068</latitud>
+			<longitud>-8.681035</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Probablemente se refiera a un antiguo propietario de los terrenos, conocido como O Xouba, o quizás a unas tierras alargadas, con forma de sardina.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1990</analizada>
+	</fuente>
+	<fuente id="311">
+		<titulo>Fonte do Xuncal</titulo>
+		<ubicacion>
+			<lugar>Rúa do Xuncal, 13</lugar>
+			<parroquia>Teis</parroquia>
+			<latitud>42.249105</latitud>
+			<longitud>-8.690835</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Media</calidad>
+		<origen>Debido a que el lugar estaba encharcado y donde crecían juncos.</origen>
+		<lavadero>false</lavadero>
+		<analizada>1986</analizada>
+	</fuente>
+	<fuente id="266">
+		<titulo>Fonte da Xunqueira</titulo>
+		<ubicacion>
+			<lugar>Rúa de Paz Pardo, 70</lugar>
+			<parroquia>Lavadores</parroquia>
+			<latitud>42.214783</latitud>
+			<longitud>-8.694355</longitud>
+		</ubicacion>
+		<caudal>Con llave de paso</caudal>
+		<calidad>Media</calidad>
+		<origen>Debido a que el lugar estaba encharcado y donde crecían juncos. La fuente y el lavadero se construyeron sobre una charca que había aquí.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1981</analizada>
+	</fuente>
+	<fuente id="60">
+		<titulo>Fonte da Zapateira</titulo>
+		<ubicacion>
+			<lugar>Camiño de María Soa, 1</lugar>
+			<parroquia>Cabral</parroquia>
+			<latitud>42.234152</latitud>
+			<longitud>-8.64246</longitud>
+		</ubicacion>
+		<caudal>Bajo</caudal>
+		<calidad>Mala</calidad>
+		<origen>Debido seguramente a la presencia de zapateiras en el lugar, aguzanieves, conocidas también como lavandeiras.</origen>
+		<lavadero>true</lavadero>
+		<analizada>1969</analizada>
+	</fuente>
+</fuentes>
