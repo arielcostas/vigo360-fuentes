@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "astro": "^5.1.1",
-    "maplibre-gl": "^4.7.1"
+    "maplibre-gl": "^4.7.1",
+    "pmtiles-protocol": "^1.0.4"
   }
 }

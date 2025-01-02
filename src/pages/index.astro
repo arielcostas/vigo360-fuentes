@@ -90,15 +90,19 @@ const schema = {
 <script>
 	import maplibregl from "maplibre-gl";
 	import "maplibre-gl/dist/maplibre-gl.css";
+	import * as pmtiles from "pmtiles";
+
+	let protocol = new pmtiles.Protocol();
+	maplibregl.addProtocol('pmtiles', protocol.tile)
 
 	let map = new maplibregl.Map({
 		container: "map",
 		style: "/mapstyle.json",
 		center: [-8.726, 42.232],
-		zoom: 11,
+		zoom: 13,
 		maxBounds: [
-			[-8.87068820592648, 42.13799035757435],
-			[-8.530510219251278, 42.31734964922503],
+			[-8.9327427, 42.0910042],
+			[-8.4670012, 42.3149985],
 		],
 	});
 
@@ -189,6 +193,9 @@ const schema = {
 		new maplibregl.GeolocateControl({
 			showUserLocation: true,
 			trackUserLocation: true,
+			positionOptions: {
+				enableHighAccuracy: true
+			}
 		})
 	);
 	map.addControl(new maplibregl.FullscreenControl());
